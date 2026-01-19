@@ -1,0 +1,4358 @@
+[
+  {
+    "id_kab_webspbu": "ID-AC-MBO",
+    "label_kab_webspbu": "Kabupaten Aceh Barat",
+    "id_kab_bps": "1107",
+    "id_kab_dagri": "11.05",
+    "id_kab_sap_cnt": "603",
+    "label_kab_kota": "ACEH BARAT",
+    "label_kab_bps": "ACEH BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-BPD",
+    "label_kab_webspbu": "Kabupaten Aceh Barat Daya",
+    "id_kab_bps": "1112",
+    "id_kab_dagri": "11.12",
+    "id_kab_sap_cnt": "618",
+    "label_kab_kota": "ACEH BARAT DAYA",
+    "label_kab_bps": "ACEH BARAT DAYA"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-JTH",
+    "label_kab_webspbu": "Kabupaten Aceh Besar",
+    "id_kab_bps": "1108",
+    "id_kab_dagri": "11.06",
+    "id_kab_sap_cnt": "604",
+    "label_kab_kota": "ACEH BESAR",
+    "label_kab_bps": "ACEH BESAR"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-CAG",
+    "label_kab_webspbu": "Kabupaten Aceh Jaya",
+    "id_kab_bps": "1116",
+    "id_kab_dagri": "11.14",
+    "id_kab_sap_cnt": "617",
+    "label_kab_kota": "ACEH JAYA",
+    "label_kab_bps": "ACEH JAYA"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-TTN",
+    "label_kab_webspbu": "Kabupaten Aceh Selatan",
+    "id_kab_bps": "1103",
+    "id_kab_dagri": "11.01",
+    "id_kab_sap_cnt": "605",
+    "label_kab_kota": "ACEH SELATAN",
+    "label_kab_bps": "ACEH SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-SKL",
+    "label_kab_webspbu": "Kabupaten Aceh Singkil",
+    "id_kab_bps": "1102",
+    "id_kab_dagri": "11.1",
+    "id_kab_sap_cnt": "613",
+    "label_kab_kota": "ACEH SINGKIL",
+    "label_kab_bps": "ACEH SINGKIL"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-KRB",
+    "label_kab_webspbu": "Kabupaten Aceh Tamiang",
+    "id_kab_bps": "1114",
+    "id_kab_dagri": "11.16",
+    "id_kab_sap_cnt": "620",
+    "label_kab_kota": "ACEH TAMIANG",
+    "label_kab_bps": "ACEH TAMIANG"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-TKN",
+    "label_kab_webspbu": "Kabupaten Aceh Tengah",
+    "id_kab_bps": "1106",
+    "id_kab_dagri": "11.04",
+    "id_kab_sap_cnt": "606",
+    "label_kab_kota": "ACEH TENGAH",
+    "label_kab_bps": "ACEH TENGAH"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-KTN",
+    "label_kab_webspbu": "Kabupaten Aceh Tenggara",
+    "id_kab_bps": "1104",
+    "id_kab_dagri": "11.02",
+    "id_kab_sap_cnt": "607",
+    "label_kab_kota": "ACEH TENGGARA",
+    "label_kab_bps": "ACEH TENGGARA"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-ACT",
+    "label_kab_webspbu": "Kabupaten Aceh Timur",
+    "id_kab_bps": "1105",
+    "id_kab_dagri": "11.03",
+    "id_kab_sap_cnt": "608",
+    "label_kab_kota": "ACEH TIMUR",
+    "label_kab_bps": "ACEH TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-LSK",
+    "label_kab_webspbu": "Kabupaten Aceh Utara",
+    "id_kab_bps": "1111",
+    "id_kab_dagri": "11.08",
+    "id_kab_sap_cnt": "609",
+    "label_kab_kota": "ACEH UTARA",
+    "label_kab_bps": "ACEH UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-LBB",
+    "label_kab_webspbu": "Kabupaten Agam",
+    "id_kab_bps": "1307",
+    "id_kab_dagri": "13.06",
+    "id_kab_sap_cnt": "806",
+    "label_kab_kota": "AGAM",
+    "label_kab_bps": "AGAM"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-KLB",
+    "label_kab_webspbu": "Kabupaten Alor",
+    "id_kab_bps": "5307",
+    "id_kab_dagri": "53.05",
+    "id_kab_sap_cnt": "2415",
+    "label_kab_kota": "ALOR",
+    "label_kab_bps": "ALOR"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-KIS",
+    "label_kab_webspbu": "Kabupaten Asahan",
+    "id_kab_bps": "1208",
+    "id_kab_dagri": "12.09",
+    "id_kab_sap_cnt": "707",
+    "label_kab_kota": "ASAHAN",
+    "label_kab_bps": "ASAHAN"
+  },
+  {
+    "id_kab_webspbu": "ID-BA-MGW",
+    "label_kab_webspbu": "Kabupaten Badung",
+    "id_kab_bps": "5103",
+    "id_kab_dagri": "51.03",
+    "id_kab_sap_cnt": "2211",
+    "label_kab_kota": "BADUNG",
+    "label_kab_bps": "BADUNG"
+  },
+  {
+    "id_kab_webspbu": "ID-KS-PRN",
+    "label_kab_webspbu": "Kabupaten Balangan",
+    "id_kab_bps": "6311",
+    "id_kab_dagri": "63.11",
+    "id_kab_sap_cnt": "1412",
+    "label_kab_kota": "BALANGAN",
+    "label_kab_bps": "BALANGAN"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-SOR",
+    "label_kab_webspbu": "Kabupaten Bandung",
+    "id_kab_bps": "3204",
+    "id_kab_dagri": "32.04",
+    "id_kab_sap_cnt": "224",
+    "label_kab_kota": "BANDUNG",
+    "label_kab_bps": "BANDUNG"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-NPH",
+    "label_kab_webspbu": "Kabupaten Bandung Barat",
+    "id_kab_bps": "3217",
+    "id_kab_dagri": "32.17",
+    "id_kab_sap_cnt": "236",
+    "label_kab_kota": "BANDUNG BARAT",
+    "label_kab_bps": "BANDUNG BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-ST-LWK",
+    "label_kab_webspbu": "Kabupaten Banggai Daratan",
+    "id_kab_bps": "7202",
+    "id_kab_dagri": "72.01",
+    "id_kab_sap_cnt": "2005",
+    "label_kab_kota": "BANGGAI",
+    "label_kab_bps": "BANGGAI"
+  },
+  {
+    "id_kab_webspbu": "ID-ST-SKN",
+    "label_kab_webspbu": "Kabupaten Banggai Kepulauan",
+    "id_kab_bps": "7201",
+    "id_kab_dagri": "72.07",
+    "id_kab_sap_cnt": "2007",
+    "label_kab_kota": "BANGGAI KEPULAUAN",
+    "label_kab_bps": "BANGGAI KEPULAUAN"
+  },
+  {
+    "id_kab_webspbu": "ID-ST-BGL",
+    "label_kab_webspbu": "Kabupaten Banggai Laut",
+    "id_kab_bps": "7211",
+    "id_kab_dagri": "72.11",
+    "id_kab_sap_cnt": "2013",
+    "label_kab_kota": "BANGGAI LAUT",
+    "label_kab_bps": "BANGGAI LAUT"
+  },
+  {
+    "id_kab_webspbu": "ID-BB-SGL",
+    "label_kab_webspbu": "Kabupaten Bangka",
+    "id_kab_bps": "1901",
+    "id_kab_dagri": "19.01",
+    "id_kab_sap_cnt": "2702",
+    "label_kab_kota": "BANGKA",
+    "label_kab_bps": "BANGKA"
+  },
+  {
+    "id_kab_webspbu": "ID-BB-MTK",
+    "label_kab_webspbu": "Kabupaten Bangka Barat",
+    "id_kab_bps": "1903",
+    "id_kab_dagri": "19.05",
+    "id_kab_sap_cnt": "2704",
+    "label_kab_kota": "BANGKA BARAT",
+    "label_kab_bps": "BANGKA BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-BB-TBL",
+    "label_kab_webspbu": "Kabupaten Bangka Selatan",
+    "id_kab_bps": "1905",
+    "id_kab_dagri": "19.03",
+    "id_kab_sap_cnt": "2706",
+    "label_kab_kota": "BANGKA SELATAN",
+    "label_kab_bps": "BANGKA SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-BB-KBA",
+    "label_kab_webspbu": "Kabupaten Bangka Tengah",
+    "id_kab_bps": "1904",
+    "id_kab_dagri": "19.04",
+    "id_kab_sap_cnt": "2705",
+    "label_kab_kota": "BANGKA TENGAH",
+    "label_kab_bps": "BANGKA TENGAH"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-BKL",
+    "label_kab_webspbu": "Kabupaten Bangkalan",
+    "id_kab_bps": "3526",
+    "id_kab_dagri": "35.26",
+    "id_kab_sap_cnt": "433",
+    "label_kab_kota": "BANGKALAN",
+    "label_kab_bps": "BANGKALAN"
+  },
+  {
+    "id_kab_webspbu": "ID-BA-BLI",
+    "label_kab_webspbu": "Kabupaten Bangli",
+    "id_kab_bps": "5106",
+    "id_kab_dagri": "51.06",
+    "id_kab_sap_cnt": "2213",
+    "label_kab_kota": "BANGLI",
+    "label_kab_bps": "BANGLI"
+  },
+  {
+    "id_kab_webspbu": "ID-KS-MTP",
+    "label_kab_webspbu": "Kabupaten Banjar",
+    "id_kab_bps": "6303",
+    "id_kab_dagri": "63.03",
+    "id_kab_sap_cnt": "1402",
+    "label_kab_kota": "BANJAR",
+    "label_kab_bps": "BANJAR"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-BNR",
+    "label_kab_webspbu": "Kabupaten Banjarnegara",
+    "id_kab_bps": "3304",
+    "id_kab_dagri": "33.04",
+    "id_kab_sap_cnt": "323",
+    "label_kab_kota": "BANJARNEGARA",
+    "label_kab_bps": "BANJARNEGARA"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-BAN",
+    "label_kab_webspbu": "Kabupaten Bantaeng",
+    "id_kab_bps": "7303",
+    "id_kab_dagri": "73.03",
+    "id_kab_sap_cnt": "1803",
+    "label_kab_kota": "BANTAENG",
+    "label_kab_bps": "BANTAENG"
+  },
+  {
+    "id_kab_webspbu": "ID-YO-BTL",
+    "label_kab_webspbu": "Kabupaten Bantul",
+    "id_kab_bps": "3402",
+    "id_kab_dagri": "34.02",
+    "id_kab_sap_cnt": "503",
+    "label_kab_kota": "BANTUL",
+    "label_kab_bps": "BANTUL"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-PKB",
+    "label_kab_webspbu": "Kabupaten Banyuasin",
+    "id_kab_bps": "1607",
+    "id_kab_dagri": "16.07",
+    "id_kab_sap_cnt": "1110",
+    "label_kab_kota": "BANYUASIN",
+    "label_kab_bps": "BANYU ASIN"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-PWT",
+    "label_kab_webspbu": "Kabupaten Banyumas",
+    "id_kab_bps": "3302",
+    "id_kab_dagri": "33.02",
+    "id_kab_sap_cnt": "320",
+    "label_kab_kota": "BANYUMAS",
+    "label_kab_bps": "BANYUMAS"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-BYW",
+    "label_kab_webspbu": "Kabupaten Banyuwangi",
+    "id_kab_bps": "3510",
+    "id_kab_dagri": "35.1",
+    "id_kab_sap_cnt": "432",
+    "label_kab_kota": "BANYUWANGI",
+    "label_kab_bps": "BANYUWANGI"
+  },
+  {
+    "id_kab_webspbu": "ID-KS-MRH",
+    "label_kab_webspbu": "Kabupaten Barito Kuala",
+    "id_kab_bps": "6304",
+    "id_kab_dagri": "63.04",
+    "id_kab_sap_cnt": "1407",
+    "label_kab_kota": "BARITO KUALA",
+    "label_kab_bps": "BARITO KUALA"
+  },
+  {
+    "id_kab_webspbu": "ID-KT-BNT",
+    "label_kab_webspbu": "Kabupaten Barito Selatan",
+    "id_kab_bps": "6204",
+    "id_kab_dagri": "62.04",
+    "id_kab_sap_cnt": "1611",
+    "label_kab_kota": "BARITO SELATAN",
+    "label_kab_bps": "BARITO SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-KT-TML",
+    "label_kab_webspbu": "Kabupaten Barito Timur",
+    "id_kab_bps": "6212",
+    "id_kab_dagri": "62.13",
+    "id_kab_sap_cnt": "1612",
+    "label_kab_kota": "BARITO TIMUR",
+    "label_kab_bps": "BARITO TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-KT-MTW",
+    "label_kab_webspbu": "Kabupaten Barito Utara",
+    "id_kab_bps": "6205",
+    "id_kab_dagri": "62.05",
+    "id_kab_sap_cnt": "1613",
+    "label_kab_kota": "BARITO UTARA",
+    "label_kab_bps": "BARITO UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-BAR",
+    "label_kab_webspbu": "Kabupaten Barru",
+    "id_kab_bps": "7310",
+    "id_kab_dagri": "73.11",
+    "id_kab_sap_cnt": "1804",
+    "label_kab_kota": "BARRU",
+    "label_kab_bps": "BARRU"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-BTG",
+    "label_kab_webspbu": "Kabupaten Batang",
+    "id_kab_bps": "3325",
+    "id_kab_dagri": "33.25",
+    "id_kab_sap_cnt": "314",
+    "label_kab_kota": "BATANG",
+    "label_kab_bps": "BATANG"
+  },
+  {
+    "id_kab_webspbu": "ID-JA-MBN",
+    "label_kab_webspbu": "Kabupaten Batanghari",
+    "id_kab_bps": "1504",
+    "id_kab_dagri": "15.04",
+    "id_kab_sap_cnt": "1009",
+    "label_kab_kota": "BATANGHARI",
+    "label_kab_bps": "BATANG HARI"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-LMP",
+    "label_kab_webspbu": "Kabupaten Batubara",
+    "id_kab_bps": "0",
+    "id_kab_dagri": "0",
+    "id_kab_sap_cnt": "0",
+    "label_kab_kota": "-",
+    "label_kab_bps": "-"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-CKR",
+    "label_kab_webspbu": "Kabupaten Bekasi",
+    "id_kab_bps": "3216",
+    "id_kab_dagri": "32.16",
+    "id_kab_sap_cnt": "220",
+    "label_kab_kota": "BEKASI",
+    "label_kab_bps": "BEKASI"
+  },
+  {
+    "id_kab_webspbu": "ID-BB-KBB",
+    "label_kab_webspbu": "Kabupaten Belitung",
+    "id_kab_bps": "1902",
+    "id_kab_dagri": "19.02",
+    "id_kab_sap_cnt": "2708",
+    "label_kab_kota": "BELITUNG",
+    "label_kab_bps": "BELITUNG"
+  },
+  {
+    "id_kab_webspbu": "ID-BB-TDN",
+    "label_kab_webspbu": "Kabupaten Belitung Barat",
+    "id_kab_bps": "0",
+    "id_kab_dagri": "0",
+    "id_kab_sap_cnt": "0",
+    "label_kab_kota": "-",
+    "label_kab_bps": "-"
+  },
+  {
+    "id_kab_webspbu": "ID-BB-MGR",
+    "label_kab_webspbu": "Kabupaten Belitung Timur",
+    "id_kab_bps": "1906",
+    "id_kab_dagri": "19.06",
+    "id_kab_sap_cnt": "2707",
+    "label_kab_kota": "BELITUNG TIMUR",
+    "label_kab_bps": "BELITUNG TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-ATB",
+    "label_kab_webspbu": "Kabupaten Belu",
+    "id_kab_bps": "5306",
+    "id_kab_dagri": "53.04",
+    "id_kab_sap_cnt": "2414",
+    "label_kab_kota": "BELU",
+    "label_kab_bps": "BELU"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-STR",
+    "label_kab_webspbu": "Kabupaten Bener Meriah",
+    "id_kab_bps": "1117",
+    "id_kab_dagri": "11.17",
+    "id_kab_sap_cnt": "621",
+    "label_kab_kota": "BENER MERIAH",
+    "label_kab_bps": "BENER MERIAH"
+  },
+  {
+    "id_kab_webspbu": "ID-RI-BLS",
+    "label_kab_webspbu": "Kabupaten Bengkalis",
+    "id_kab_bps": "1408",
+    "id_kab_dagri": "14.03",
+    "id_kab_sap_cnt": "903",
+    "label_kab_kota": "BENGKALIS",
+    "label_kab_bps": "BENGKALIS"
+  },
+  {
+    "id_kab_webspbu": "ID-KB-BEK",
+    "label_kab_webspbu": "Kabupaten Bengkayang",
+    "id_kab_bps": "6102",
+    "id_kab_dagri": "61.07",
+    "id_kab_sap_cnt": "1503",
+    "label_kab_kota": "BENGKAYANG",
+    "label_kab_bps": "BENGKAYANG"
+  },
+  {
+    "id_kab_webspbu": "ID-BE-MNA",
+    "label_kab_webspbu": "Kabupaten Bengkulu Selatan",
+    "id_kab_bps": "1701",
+    "id_kab_dagri": "17.01",
+    "id_kab_sap_cnt": "1204",
+    "label_kab_kota": "BENGKULU SELATAN",
+    "label_kab_bps": "BENGKULU SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-BE-KRT",
+    "label_kab_webspbu": "Kabupaten Bengkulu Tengah",
+    "id_kab_bps": "1709",
+    "id_kab_dagri": "17.09",
+    "id_kab_sap_cnt": "1210",
+    "label_kab_kota": "BENGKULU TENGAH",
+    "label_kab_bps": "BENGKULU TENGAH"
+  },
+  {
+    "id_kab_webspbu": "ID-BE-AGM",
+    "label_kab_webspbu": "Kabupaten Bengkulu Utara",
+    "id_kab_bps": "1703",
+    "id_kab_dagri": "17.03",
+    "id_kab_sap_cnt": "1203",
+    "label_kab_kota": "BENGKULU UTARA",
+    "label_kab_bps": "BENGKULU UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-KU-TAR",
+    "label_kab_webspbu": "Kabupaten Berau",
+    "id_kab_bps": "6405",
+    "id_kab_dagri": "64.03",
+    "id_kab_sap_cnt": "1705",
+    "label_kab_kota": "BERAU",
+    "label_kab_bps": "BERAU"
+  },
+  {
+    "id_kab_webspbu": "ID-KI-TNR",
+    "label_kab_webspbu": "Kabupaten Berau",
+    "id_kab_bps": "6405",
+    "id_kab_dagri": "64.03",
+    "id_kab_sap_cnt": "1705",
+    "label_kab_kota": "BERAU",
+    "label_kab_bps": "BERAU"
+  },
+  {
+    "id_kab_webspbu": "ID-PA-BIK",
+    "label_kab_webspbu": "Kabupaten Biak Numfor",
+    "id_kab_bps": "9409",
+    "id_kab_dagri": "91.06",
+    "id_kab_sap_cnt": "2605",
+    "label_kab_kota": "BIAK NUMFOR",
+    "label_kab_bps": "BIAK NUMFOR"
+  },
+  {
+    "id_kab_webspbu": "ID-NB-WHO",
+    "label_kab_webspbu": "Kabupaten Bima",
+    "id_kab_bps": "5206",
+    "id_kab_dagri": "52.06",
+    "id_kab_sap_cnt": "2314",
+    "label_kab_kota": "BIMA",
+    "label_kab_bps": "BIMA"
+  },
+  {
+    "id_kab_webspbu": "ID-KR-BSB",
+    "label_kab_webspbu": "Kabupaten Bintan",
+    "id_kab_bps": "2102",
+    "id_kab_dagri": "21.01",
+    "id_kab_sap_cnt": "3107",
+    "label_kab_kota": "BINTAN",
+    "label_kab_bps": "BINTAN"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-BIR",
+    "label_kab_webspbu": "Kabupaten Bireuen",
+    "id_kab_bps": "1110",
+    "id_kab_dagri": "11.11",
+    "id_kab_sap_cnt": "624",
+    "label_kab_kota": "BIREUEN",
+    "label_kab_bps": "BIREUEN"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-KNR",
+    "label_kab_webspbu": "Kabupaten Blitar",
+    "id_kab_bps": "3505",
+    "id_kab_dagri": "35.05",
+    "id_kab_sap_cnt": "461",
+    "label_kab_kota": "BLITAR",
+    "label_kab_bps": "BLITAR"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-BLA",
+    "label_kab_webspbu": "Kabupaten Blora",
+    "id_kab_bps": "3316",
+    "id_kab_dagri": "33.16",
+    "id_kab_sap_cnt": "311",
+    "label_kab_kota": "BLORA",
+    "label_kab_bps": "BLORA"
+  },
+  {
+    "id_kab_webspbu": "ID-GO-TMT",
+    "label_kab_webspbu": "Kabupaten Boalemo",
+    "id_kab_bps": "7501",
+    "id_kab_dagri": "75.02",
+    "id_kab_sap_cnt": "2903",
+    "label_kab_kota": "BOALEMO",
+    "label_kab_bps": "BOALEMO"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-CBI",
+    "label_kab_webspbu": "Kabupaten Bogor",
+    "id_kab_bps": "3201",
+    "id_kab_dagri": "32.01",
+    "id_kab_sap_cnt": "215",
+    "label_kab_kota": "BOGOR",
+    "label_kab_bps": "BOGOR"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-BGR",
+    "label_kab_webspbu": "Kabupaten Bogor",
+    "id_kab_bps": "3201",
+    "id_kab_dagri": "32.01",
+    "id_kab_sap_cnt": "215",
+    "label_kab_kota": "BOGOR",
+    "label_kab_bps": "BOGOR"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-BJN",
+    "label_kab_webspbu": "Kabupaten Bojonegoro",
+    "id_kab_bps": "3522",
+    "id_kab_dagri": "35.22",
+    "id_kab_sap_cnt": "414",
+    "label_kab_kota": "BOJONEGORO",
+    "label_kab_bps": "BOJONEGORO"
+  },
+  {
+    "id_kab_webspbu": "ID-SA-LLK",
+    "label_kab_webspbu": "Kabupaten Bolaang Mongondow",
+    "id_kab_bps": "7101",
+    "id_kab_dagri": "71.01",
+    "id_kab_sap_cnt": "2103",
+    "label_kab_kota": "BOLAANG MONGONDOW",
+    "label_kab_bps": "BOLAANG MONGONDOW"
+  },
+  {
+    "id_kab_webspbu": "ID-SA-BLU",
+    "label_kab_webspbu": "Kabupaten Bolaang Mongondow Selatan",
+    "id_kab_bps": "7110",
+    "id_kab_dagri": "71.11",
+    "id_kab_sap_cnt": "2111",
+    "label_kab_kota": "BOLAANG MONGONDOW SELATAN",
+    "label_kab_bps": "BOLAANG MONGONDOW SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SA-TTY",
+    "label_kab_webspbu": "Kabupaten Bolaang Mongondow Timur",
+    "id_kab_bps": "7111",
+    "id_kab_dagri": "71.1",
+    "id_kab_sap_cnt": "2112",
+    "label_kab_kota": "BOLAANG MONGONDOW TIMUR",
+    "label_kab_bps": "BOLAANG MONGONDOW TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-SA-BRK",
+    "label_kab_webspbu": "Kabupaten Bolaang Mongondow Utara",
+    "id_kab_bps": "7107",
+    "id_kab_dagri": "71.08",
+    "id_kab_sap_cnt": "2113",
+    "label_kab_kota": "BOLAANG MONGONDOW UTARA",
+    "label_kab_bps": "BOLAANG MONGONDOW UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-RMB",
+    "label_kab_webspbu": "Kabupaten Bombana",
+    "id_kab_bps": "7406",
+    "id_kab_dagri": "74.06",
+    "id_kab_sap_cnt": "1907",
+    "label_kab_kota": "BOMBANA",
+    "label_kab_bps": "BOMBANA"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-BDW",
+    "label_kab_webspbu": "Kabupaten Bondowoso",
+    "id_kab_bps": "3511",
+    "id_kab_dagri": "35.11",
+    "id_kab_sap_cnt": "428",
+    "label_kab_kota": "BONDOWOSO",
+    "label_kab_bps": "BONDOWOSO"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-WTP",
+    "label_kab_webspbu": "Kabupaten Bone",
+    "id_kab_bps": "7311",
+    "id_kab_dagri": "73.08",
+    "id_kab_sap_cnt": "1805",
+    "label_kab_kota": "BONE",
+    "label_kab_bps": "BONE"
+  },
+  {
+    "id_kab_webspbu": "ID-GO-SWW",
+    "label_kab_webspbu": "Kabupaten Bone Bolango",
+    "id_kab_bps": "7504",
+    "id_kab_dagri": "75.03",
+    "id_kab_sap_cnt": "2905",
+    "label_kab_kota": "BONE BOLANGO",
+    "label_kab_bps": "BONE BOLANGO"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-BYL",
+    "label_kab_webspbu": "Kabupaten Boyolali",
+    "id_kab_bps": "3309",
+    "id_kab_dagri": "33.09",
+    "id_kab_sap_cnt": "330",
+    "label_kab_kota": "BOYOLALI",
+    "label_kab_bps": "BOYOLALI"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-BBS",
+    "label_kab_webspbu": "Kabupaten Brebes",
+    "id_kab_bps": "3329",
+    "id_kab_dagri": "33.29",
+    "id_kab_sap_cnt": "318",
+    "label_kab_kota": "BREBES",
+    "label_kab_bps": "BREBES"
+  },
+  {
+    "id_kab_webspbu": "ID-BA-SGR",
+    "label_kab_webspbu": "Kabupaten Buleleng",
+    "id_kab_bps": "5108",
+    "id_kab_dagri": "51.08",
+    "id_kab_sap_cnt": "2216",
+    "label_kab_kota": "BULELENG",
+    "label_kab_bps": "BULELENG"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-BLK",
+    "label_kab_webspbu": "Kabupaten Bulukumba",
+    "id_kab_bps": "7302",
+    "id_kab_dagri": "73.02",
+    "id_kab_sap_cnt": "1806",
+    "label_kab_kota": "BULUKUMBA",
+    "label_kab_bps": "BULUKUMBA"
+  },
+  {
+    "id_kab_webspbu": "ID-KU-TJS",
+    "label_kab_webspbu": "Kabupaten Bulungan",
+    "id_kab_bps": "6502",
+    "id_kab_dagri": "65.01",
+    "id_kab_sap_cnt": "1708",
+    "label_kab_kota": "BULUNGAN",
+    "label_kab_bps": "BULUNGAN"
+  },
+  {
+    "id_kab_webspbu": "ID-JA-MRB",
+    "label_kab_webspbu": "Kabupaten Bungo",
+    "id_kab_bps": "1509",
+    "id_kab_dagri": "15.08",
+    "id_kab_sap_cnt": "1003",
+    "label_kab_kota": "BUNGO",
+    "label_kab_bps": "BUNGO"
+  },
+  {
+    "id_kab_webspbu": "ID-ST-BUL",
+    "label_kab_webspbu": "Kabupaten Buol",
+    "id_kab_bps": "7207",
+    "id_kab_dagri": "72.05",
+    "id_kab_sap_cnt": "2002",
+    "label_kab_kota": "BUOL",
+    "label_kab_bps": "BUOL"
+  },
+  {
+    "id_kab_webspbu": "ID-MA-NLA",
+    "label_kab_webspbu": "Kabupaten Buru",
+    "id_kab_bps": "8104",
+    "id_kab_dagri": "81.04",
+    "id_kab_sap_cnt": "2504",
+    "label_kab_kota": "BURU",
+    "label_kab_bps": "BURU"
+  },
+  {
+    "id_kab_webspbu": "ID-MA-NMR",
+    "label_kab_webspbu": "Kabupaten Buru Selatan",
+    "id_kab_bps": "8109",
+    "id_kab_dagri": "81.09",
+    "id_kab_sap_cnt": "2511",
+    "label_kab_kota": "BURU SELATAN",
+    "label_kab_bps": "BURU SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-PSW",
+    "label_kab_webspbu": "Kabupaten Buton",
+    "id_kab_bps": "7401",
+    "id_kab_dagri": "74.04",
+    "id_kab_sap_cnt": "1903",
+    "label_kab_kota": "BUTON",
+    "label_kab_bps": "BUTON"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-BTS",
+    "label_kab_webspbu": "Kabupaten Buton Selatan",
+    "id_kab_bps": "7415",
+    "id_kab_dagri": "74.15",
+    "id_kab_sap_cnt": "1917",
+    "label_kab_kota": "BUTON SELATAN",
+    "label_kab_bps": "BUTON SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-BTT",
+    "label_kab_webspbu": "Kabupaten Buton Tengah",
+    "id_kab_bps": "7414",
+    "id_kab_dagri": "74.14",
+    "id_kab_sap_cnt": "1916",
+    "label_kab_kota": "BUTON TENGAH",
+    "label_kab_bps": "BUTON TENGAH"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-BNG",
+    "label_kab_webspbu": "Kabupaten Buton Utara",
+    "id_kab_bps": "7409",
+    "id_kab_dagri": "74.1",
+    "id_kab_sap_cnt": "1912",
+    "label_kab_kota": "BUTON UTARA",
+    "label_kab_bps": "BUTON UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-CMS",
+    "label_kab_webspbu": "Kabupaten Ciamis",
+    "id_kab_bps": "3207",
+    "id_kab_dagri": "32.07",
+    "id_kab_sap_cnt": "229",
+    "label_kab_kota": "CIAMIS",
+    "label_kab_bps": "CIAMIS"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-CJR",
+    "label_kab_webspbu": "Kabupaten Cianjur",
+    "id_kab_bps": "3203",
+    "id_kab_dagri": "32.03",
+    "id_kab_sap_cnt": "218",
+    "label_kab_kota": "CIANJUR",
+    "label_kab_bps": "CIANJUR"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-CLP",
+    "label_kab_webspbu": "Kabupaten Cilacap",
+    "id_kab_bps": "3301",
+    "id_kab_dagri": "33.01",
+    "id_kab_sap_cnt": "319",
+    "label_kab_kota": "CILACAP",
+    "label_kab_bps": "CILACAP"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-SBR",
+    "label_kab_webspbu": "Kabupaten Cirebon",
+    "id_kab_bps": "3209",
+    "id_kab_dagri": "32.09",
+    "id_kab_sap_cnt": "231",
+    "label_kab_kota": "CIREBON",
+    "label_kab_bps": "CIREBON"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-SDK",
+    "label_kab_webspbu": "Kabupaten Dairi",
+    "id_kab_bps": "1210",
+    "id_kab_dagri": "12.11",
+    "id_kab_sap_cnt": "708",
+    "label_kab_kota": "DAIRI",
+    "label_kab_bps": "DAIRI"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-LBP",
+    "label_kab_webspbu": "Kabupaten Deli Serdang",
+    "id_kab_bps": "1212",
+    "id_kab_dagri": "12.07",
+    "id_kab_sap_cnt": "709",
+    "label_kab_kota": "DELI SERDANG",
+    "label_kab_bps": "DELI SERDANG"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-DMK",
+    "label_kab_webspbu": "Kabupaten Demak",
+    "id_kab_bps": "3321",
+    "id_kab_dagri": "33.21",
+    "id_kab_sap_cnt": "305",
+    "label_kab_kota": "DEMAK",
+    "label_kab_bps": "DEMAK"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-PLJ",
+    "label_kab_webspbu": "Kabupaten Dharmasraya",
+    "id_kab_bps": "1311",
+    "id_kab_dagri": "13.1",
+    "id_kab_sap_cnt": "817",
+    "label_kab_kota": "DHARMASRAYA",
+    "label_kab_bps": "DHARMASRAYA"
+  },
+  {
+    "id_kab_webspbu": "ID-PA-KGM",
+    "label_kab_webspbu": "Kabupaten Dogiyai",
+    "id_kab_bps": "9434",
+    "id_kab_dagri": "91.26",
+    "id_kab_sap_cnt": "2623",
+    "label_kab_kota": "DOGIYAI",
+    "label_kab_bps": "DOGIYAI"
+  },
+  {
+    "id_kab_webspbu": "ID-NB-DPU",
+    "label_kab_webspbu": "Kabupaten Dompu",
+    "id_kab_bps": "5205",
+    "id_kab_dagri": "52.05",
+    "id_kab_sap_cnt": "2315",
+    "label_kab_kota": "DOMPU",
+    "label_kab_bps": "DOMPU"
+  },
+  {
+    "id_kab_webspbu": "ID-ST-DGL",
+    "label_kab_webspbu": "Kabupaten Donggala",
+    "id_kab_bps": "7205",
+    "id_kab_dagri": "72.03",
+    "id_kab_sap_cnt": "2004",
+    "label_kab_kota": "DONGGALA",
+    "label_kab_bps": "DONGGALA"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-TBG",
+    "label_kab_webspbu": "Kabupaten Empat Lawang",
+    "id_kab_bps": "1611",
+    "id_kab_dagri": "16.11",
+    "id_kab_sap_cnt": "1115",
+    "label_kab_kota": "EMPAT LAWANG",
+    "label_kab_bps": "EMPAT LAWANG"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-END",
+    "label_kab_webspbu": "Kabupaten Ende",
+    "id_kab_bps": "5311",
+    "id_kab_dagri": "53.08",
+    "id_kab_sap_cnt": "2418",
+    "label_kab_kota": "ENDE",
+    "label_kab_bps": "ENDE"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-ENR",
+    "label_kab_webspbu": "Kabupaten Enrekang",
+    "id_kab_bps": "7316",
+    "id_kab_dagri": "73.16",
+    "id_kab_sap_cnt": "1807",
+    "label_kab_kota": "ENREKANG",
+    "label_kab_bps": "ENREKANG"
+  },
+  {
+    "id_kab_webspbu": "ID-PB-FFK",
+    "label_kab_webspbu": "Kabupaten Fak Fak",
+    "id_kab_bps": "9101",
+    "id_kab_dagri": "92.03",
+    "id_kab_sap_cnt": "3304",
+    "label_kab_kota": "FAKFAK",
+    "label_kab_bps": "FAKFAK"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-LRT",
+    "label_kab_webspbu": "Kabupaten Flores Timur",
+    "id_kab_bps": "5309",
+    "id_kab_dagri": "53.06",
+    "id_kab_sap_cnt": "2417",
+    "label_kab_kota": "FLORES TIMUR",
+    "label_kab_bps": "FLORES TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-GRT",
+    "label_kab_webspbu": "Kabupaten Garut",
+    "id_kab_bps": "3205",
+    "id_kab_dagri": "32.05",
+    "id_kab_sap_cnt": "226",
+    "label_kab_kota": "GARUT",
+    "label_kab_bps": "GARUT"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-BKJ",
+    "label_kab_webspbu": "Kabupaten Gayo Lues",
+    "id_kab_bps": "1113",
+    "id_kab_dagri": "11.13",
+    "id_kab_sap_cnt": "619",
+    "label_kab_kota": "GAYO LUES",
+    "label_kab_bps": "GAYO LUES"
+  },
+  {
+    "id_kab_webspbu": "ID-BA-GIN",
+    "label_kab_webspbu": "Kabupaten Gianyar",
+    "id_kab_bps": "5104",
+    "id_kab_dagri": "51.04",
+    "id_kab_sap_cnt": "2212",
+    "label_kab_kota": "GIANYAR",
+    "label_kab_bps": "GIANYAR"
+  },
+  {
+    "id_kab_webspbu": "ID-GO-GTL",
+    "label_kab_webspbu": "Kabupaten Gorontalo",
+    "id_kab_bps": "7502",
+    "id_kab_dagri": "75.01",
+    "id_kab_sap_cnt": "2902",
+    "label_kab_kota": "GORONTALO",
+    "label_kab_bps": "GORONTALO"
+  },
+  {
+    "id_kab_webspbu": "ID-GO-KWD",
+    "label_kab_webspbu": "Kabupaten Gorontalo Utara",
+    "id_kab_bps": "7505",
+    "id_kab_dagri": "75.05",
+    "id_kab_sap_cnt": "2906",
+    "label_kab_kota": "GORONTALO UTARA",
+    "label_kab_bps": "GORONTALO UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-SGM",
+    "label_kab_webspbu": "Kabupaten Gowa",
+    "id_kab_bps": "7306",
+    "id_kab_dagri": "73.06",
+    "id_kab_sap_cnt": "1808",
+    "label_kab_kota": "GOWA",
+    "label_kab_bps": "GOWA"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-GSK",
+    "label_kab_webspbu": "Kabupaten Gresik",
+    "id_kab_bps": "3525",
+    "id_kab_dagri": "35.25",
+    "id_kab_sap_cnt": "411",
+    "label_kab_kota": "GRESIK",
+    "label_kab_bps": "GRESIK"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-PWD",
+    "label_kab_webspbu": "Kabupaten Grobogan",
+    "id_kab_bps": "3315",
+    "id_kab_dagri": "33.15",
+    "id_kab_sap_cnt": "310",
+    "label_kab_kota": "GROBOGAN",
+    "label_kab_bps": "GROBOGAN"
+  },
+  {
+    "id_kab_webspbu": "ID-YO-WNO",
+    "label_kab_webspbu": "Kabupaten Gunung Kidul",
+    "id_kab_bps": "3403",
+    "id_kab_dagri": "34.03",
+    "id_kab_sap_cnt": "505",
+    "label_kab_kota": "GUNUNGKIDUL",
+    "label_kab_bps": "GUNUNGKIDUL"
+  },
+  {
+    "id_kab_webspbu": "ID-KT-KKN",
+    "label_kab_webspbu": "Kabupaten Gunung Mas",
+    "id_kab_bps": "6211",
+    "id_kab_dagri": "62.1",
+    "id_kab_sap_cnt": "1610",
+    "label_kab_kota": "GUNUNG MAS",
+    "label_kab_bps": "GUNUNG MAS"
+  },
+  {
+    "id_kab_webspbu": "ID-MU-JLL",
+    "label_kab_webspbu": "Kabupaten Halmahera Barat",
+    "id_kab_bps": "8201",
+    "id_kab_dagri": "82.01",
+    "id_kab_sap_cnt": "3007",
+    "label_kab_kota": "HALMAHERA BARAT",
+    "label_kab_bps": "HALMAHERA BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-MU-LBA",
+    "label_kab_webspbu": "Kabupaten Halmahera Selatan",
+    "id_kab_bps": "8204",
+    "id_kab_dagri": "82.04",
+    "id_kab_sap_cnt": "3003",
+    "label_kab_kota": "HALMAHERA SELATAN",
+    "label_kab_bps": "HALMAHERA SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-MU-MAB",
+    "label_kab_webspbu": "Kabupaten Halmahera Timur",
+    "id_kab_bps": "8206",
+    "id_kab_dagri": "82.06",
+    "id_kab_sap_cnt": "3005",
+    "label_kab_kota": "HALMAHERA TIMUR",
+    "label_kab_bps": "HALMAHERA TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-MU-TOB",
+    "label_kab_webspbu": "Kabupaten Halmahera Utara",
+    "id_kab_bps": "8205",
+    "id_kab_dagri": "82.03",
+    "id_kab_sap_cnt": "3002",
+    "label_kab_kota": "HALMAHERA UTARA",
+    "label_kab_bps": "HALMAHERA UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-KS-KGN",
+    "label_kab_webspbu": "Kabupaten Hulu Sungai Selatan",
+    "id_kab_bps": "6306",
+    "id_kab_dagri": "63.06",
+    "id_kab_sap_cnt": "1410",
+    "label_kab_kota": "HULU SUNGAI SELATAN",
+    "label_kab_bps": "HULU SUNGAI SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-KS-BRB",
+    "label_kab_webspbu": "Kabupaten Hulu Sungai Tengah",
+    "id_kab_bps": "6307",
+    "id_kab_dagri": "63.07",
+    "id_kab_sap_cnt": "1413",
+    "label_kab_kota": "HULU SUNGAI TENGAH",
+    "label_kab_bps": "HULU SUNGAI TENGAH"
+  },
+  {
+    "id_kab_webspbu": "ID-KS-AMT",
+    "label_kab_webspbu": "Kabupaten Hulu Sungai Utara",
+    "id_kab_bps": "6308",
+    "id_kab_dagri": "63.08",
+    "id_kab_sap_cnt": "1411",
+    "label_kab_kota": "HULU SUNGAI UTARA",
+    "label_kab_bps": "HULU SUNGAI UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-DLS",
+    "label_kab_webspbu": "Kabupaten Humbang Hasundutan",
+    "id_kab_bps": "1215",
+    "id_kab_dagri": "12.16",
+    "id_kab_sap_cnt": "724",
+    "label_kab_kota": "HUMBANG HASUNDUTAN",
+    "label_kab_bps": "HUMBANG HASUNDUTAN"
+  },
+  {
+    "id_kab_webspbu": "ID-RI-TBH",
+    "label_kab_webspbu": "Kabupaten Indragiri Hilir",
+    "id_kab_bps": "1403",
+    "id_kab_dagri": "14.04",
+    "id_kab_sap_cnt": "905",
+    "label_kab_kota": "INDRAGIRI HILIR",
+    "label_kab_bps": "INDRAGIRI HILIR"
+  },
+  {
+    "id_kab_webspbu": "ID-RI-RGT",
+    "label_kab_webspbu": "Kabupaten Indragiri Hulu",
+    "id_kab_bps": "1402",
+    "id_kab_dagri": "14.02",
+    "id_kab_sap_cnt": "904",
+    "label_kab_kota": "INDRAGIRI HULU",
+    "label_kab_bps": "INDRAGIRI HULU"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-IDM",
+    "label_kab_webspbu": "Kabupaten Indramayu",
+    "id_kab_bps": "3212",
+    "id_kab_dagri": "32.12",
+    "id_kab_sap_cnt": "233",
+    "label_kab_kota": "INDRAMAYU",
+    "label_kab_bps": "INDRAMAYU"
+  },
+  {
+    "id_kab_webspbu": "ID-PA-JAY",
+    "label_kab_webspbu": "Kabupaten Jayapura",
+    "id_kab_bps": "9403",
+    "id_kab_dagri": "91.03",
+    "id_kab_sap_cnt": "2602",
+    "label_kab_kota": "JAYAPURA",
+    "label_kab_bps": "JAYAPURA"
+  },
+  {
+    "id_kab_webspbu": "ID-PA-WAM",
+    "label_kab_webspbu": "Kabupaten Jayawijaya",
+    "id_kab_bps": "9402",
+    "id_kab_dagri": "91.02",
+    "id_kab_sap_cnt": "2604",
+    "label_kab_kota": "JAYAWIJAYA",
+    "label_kab_bps": "JAYAWIJAYA"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-JMR",
+    "label_kab_webspbu": "Kabupaten Jember",
+    "id_kab_bps": "3509",
+    "id_kab_dagri": "35.09",
+    "id_kab_sap_cnt": "427",
+    "label_kab_kota": "JEMBER",
+    "label_kab_bps": "JEMBER"
+  },
+  {
+    "id_kab_webspbu": "ID-BA-NGA",
+    "label_kab_webspbu": "Kabupaten Jembrana",
+    "id_kab_bps": "5101",
+    "id_kab_dagri": "51.01",
+    "id_kab_sap_cnt": "2218",
+    "label_kab_kota": "JEMBRANA",
+    "label_kab_bps": "JEMBRANA"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-JNP",
+    "label_kab_webspbu": "Kabupaten Jeneponto",
+    "id_kab_bps": "7304",
+    "id_kab_dagri": "73.04",
+    "id_kab_sap_cnt": "1809",
+    "label_kab_kota": "JENEPONTO",
+    "label_kab_bps": "JENEPONTO"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-JPA",
+    "label_kab_webspbu": "Kabupaten Jepara",
+    "id_kab_bps": "3320",
+    "id_kab_dagri": "33.2",
+    "id_kab_sap_cnt": "307",
+    "label_kab_kota": "JEPARA",
+    "label_kab_bps": "JEPARA"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-JBG",
+    "label_kab_webspbu": "Kabupaten Jombang",
+    "id_kab_bps": "3517",
+    "id_kab_dagri": "35.17",
+    "id_kab_sap_cnt": "413",
+    "label_kab_kota": "JOMBANG",
+    "label_kab_bps": "JOMBANG"
+  },
+  {
+    "id_kab_webspbu": "ID-PB-KMN",
+    "label_kab_webspbu": "Kabupaten Kaimana",
+    "id_kab_bps": "9102",
+    "id_kab_dagri": "92.08",
+    "id_kab_sap_cnt": "3305",
+    "label_kab_kota": "KAIMANA",
+    "label_kab_bps": "KAIMANA"
+  },
+  {
+    "id_kab_webspbu": "ID-RI-BKN",
+    "label_kab_webspbu": "Kabupaten Kampar",
+    "id_kab_bps": "1406",
+    "id_kab_dagri": "14.01",
+    "id_kab_sap_cnt": "906",
+    "label_kab_kota": "KAMPAR",
+    "label_kab_bps": "KAMPAR"
+  },
+  {
+    "id_kab_webspbu": "ID-KT-KLK",
+    "label_kab_webspbu": "Kabupaten Kapuas",
+    "id_kab_bps": "6203",
+    "id_kab_dagri": "62.03",
+    "id_kab_sap_cnt": "1608",
+    "label_kab_kota": "KAPUAS",
+    "label_kab_bps": "KAPUAS"
+  },
+  {
+    "id_kab_webspbu": "ID-KB-PTS",
+    "label_kab_webspbu": "Kabupaten Kapuas Hulu",
+    "id_kab_bps": "6108",
+    "id_kab_dagri": "61.06",
+    "id_kab_sap_cnt": "1508",
+    "label_kab_kota": "KAPUAS HULU",
+    "label_kab_bps": "KAPUAS HULU"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-KRG",
+    "label_kab_webspbu": "Kabupaten Karanganyar",
+    "id_kab_bps": "3313",
+    "id_kab_dagri": "33.13",
+    "id_kab_sap_cnt": "332",
+    "label_kab_kota": "KARANGANYAR",
+    "label_kab_bps": "KARANGANYAR"
+  },
+  {
+    "id_kab_webspbu": "ID-BA-KRA",
+    "label_kab_webspbu": "Kabupaten Karangasem",
+    "id_kab_bps": "5107",
+    "id_kab_dagri": "51.07",
+    "id_kab_sap_cnt": "2215",
+    "label_kab_kota": "KARANGASEM",
+    "label_kab_bps": "KARANGASEM"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-KWG",
+    "label_kab_webspbu": "Kabupaten Karawang",
+    "id_kab_bps": "3215",
+    "id_kab_dagri": "32.15",
+    "id_kab_sap_cnt": "221",
+    "label_kab_kota": "KARAWANG",
+    "label_kab_bps": "KARAWANG"
+  },
+  {
+    "id_kab_webspbu": "ID-KR-TBK",
+    "label_kab_webspbu": "Kabupaten Karimun",
+    "id_kab_bps": "2101",
+    "id_kab_dagri": "21.02",
+    "id_kab_sap_cnt": "3102",
+    "label_kab_kota": "KARIMUN",
+    "label_kab_bps": "KARIMUN"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-KBJ",
+    "label_kab_webspbu": "Kabupaten Karo",
+    "id_kab_bps": "1211",
+    "id_kab_dagri": "12.06",
+    "id_kab_sap_cnt": "710",
+    "label_kab_kota": "KARO",
+    "label_kab_bps": "KARO"
+  },
+  {
+    "id_kab_webspbu": "ID-KT-KSN",
+    "label_kab_webspbu": "Kabupaten Katingan",
+    "id_kab_bps": "6209",
+    "id_kab_dagri": "62.06",
+    "id_kab_sap_cnt": "1603",
+    "label_kab_kota": "KATINGAN",
+    "label_kab_bps": "KATINGAN"
+  },
+  {
+    "id_kab_webspbu": "ID-BE-BHN",
+    "label_kab_webspbu": "Kabupaten Kaur",
+    "id_kab_bps": "1704",
+    "id_kab_dagri": "17.04",
+    "id_kab_sap_cnt": "1206",
+    "label_kab_kota": "KAUR",
+    "label_kab_bps": "KAUR"
+  },
+  {
+    "id_kab_webspbu": "ID-KB-SKD",
+    "label_kab_webspbu": "Kabupaten Kayong Utara",
+    "id_kab_bps": "6111",
+    "id_kab_dagri": "61.11",
+    "id_kab_sap_cnt": "1514",
+    "label_kab_kota": "KAYONG UTARA",
+    "label_kab_bps": "KAYONG UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-KBM",
+    "label_kab_webspbu": "Kabupaten Kebumen",
+    "id_kab_bps": "3305",
+    "id_kab_dagri": "33.05",
+    "id_kab_sap_cnt": "321",
+    "label_kab_kota": "KEBUMEN",
+    "label_kab_bps": "KEBUMEN"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-KRI",
+    "label_kab_webspbu": "Kabupaten Kediri",
+    "id_kab_bps": "3506",
+    "id_kab_dagri": "35.06",
+    "id_kab_sap_cnt": "441",
+    "label_kab_kota": "KEDIRI",
+    "label_kab_bps": "KEDIRI"
+  },
+  {
+    "id_kab_webspbu": "ID-PA-WRS",
+    "label_kab_webspbu": "Kabupaten Keerom",
+    "id_kab_bps": "9420",
+    "id_kab_dagri": "91.11",
+    "id_kab_sap_cnt": "2611",
+    "label_kab_kota": "KEEROM",
+    "label_kab_bps": "KEEROM"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-KDL",
+    "label_kab_webspbu": "Kabupaten Kendal",
+    "id_kab_bps": "3324",
+    "id_kab_dagri": "33.24",
+    "id_kab_sap_cnt": "304",
+    "label_kab_kota": "KENDAL",
+    "label_kab_bps": "KENDAL"
+  },
+  {
+    "id_kab_webspbu": "ID-BE-KPH",
+    "label_kab_webspbu": "Kabupaten Kepahiang",
+    "id_kab_bps": "1708",
+    "id_kab_dagri": "17.08",
+    "id_kab_sap_cnt": "1208",
+    "label_kab_kota": "KEPAHIANG",
+    "label_kab_bps": "KEPAHIANG"
+  },
+  {
+    "id_kab_webspbu": "ID-MA-DOB",
+    "label_kab_webspbu": "Kabupaten Kepulauan Aru",
+    "id_kab_bps": "8105",
+    "id_kab_dagri": "81.07",
+    "id_kab_sap_cnt": "2506",
+    "label_kab_kota": "KEPULAUAN ARU",
+    "label_kab_bps": "KEPULAUAN ARU"
+  },
+  {
+    "id_kab_webspbu": "ID-RI-TTG",
+    "label_kab_webspbu": "Kabupaten Kepulauan Meranti",
+    "id_kab_bps": "1410",
+    "id_kab_dagri": "14.1",
+    "id_kab_sap_cnt": "912",
+    "label_kab_kota": "KEPULAUAN MERANTI",
+    "label_kab_bps": "KEPULAUAN MERANTI"
+  },
+  {
+    "id_kab_webspbu": "ID-SA-THN",
+    "label_kab_webspbu": "Kabupaten Kepulauan Sangihe",
+    "id_kab_bps": "7103",
+    "id_kab_dagri": "71.03",
+    "id_kab_sap_cnt": "2105",
+    "label_kab_kota": "KEPULAUAN SANGIHE",
+    "label_kab_bps": "KEPULAUAN SANGIHE"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-BEN",
+    "label_kab_webspbu": "Kabupaten Kepulauan Selayar",
+    "id_kab_bps": "7301",
+    "id_kab_dagri": "73.01",
+    "id_kab_sap_cnt": "1818",
+    "label_kab_kota": "KEPULAUAN SELAYAR",
+    "label_kab_bps": "KEPULAUAN SELAYAR"
+  },
+  {
+    "id_kab_webspbu": "ID-SA-ODS",
+    "label_kab_webspbu": "Kabupaten Kepulauan Siau Tagulandang Biaro",
+    "id_kab_bps": "7108",
+    "id_kab_dagri": "71.09",
+    "id_kab_sap_cnt": "2115",
+    "label_kab_kota": "KEPULAUAN SIAU TAGULANDANG BIARO",
+    "label_kab_bps": "SIAU TAGULANDANG BIARO"
+  },
+  {
+    "id_kab_webspbu": "ID-MU-SNN",
+    "label_kab_webspbu": "Kabupaten Kepulauan Sula",
+    "id_kab_bps": "8203",
+    "id_kab_dagri": "82.05",
+    "id_kab_sap_cnt": "3004",
+    "label_kab_kota": "KEPULAUAN SULA",
+    "label_kab_bps": "KEPULAUAN SULA"
+  },
+  {
+    "id_kab_webspbu": "ID-SA-MGN",
+    "label_kab_webspbu": "Kabupaten Kepulauan Talaud",
+    "id_kab_bps": "7104",
+    "id_kab_dagri": "71.04",
+    "id_kab_sap_cnt": "2106",
+    "label_kab_kota": "KEPULAUAN TALAUD",
+    "label_kab_bps": "KEPULAUAN TALAUD"
+  },
+  {
+    "id_kab_webspbu": "ID-MA-SML",
+    "label_kab_webspbu": "Kabupaten Kepulauan Tanimbar",
+    "id_kab_bps": "8101",
+    "id_kab_dagri": "81.03",
+    "id_kab_sap_cnt": "2507",
+    "label_kab_kota": "KEPULAUAN TANIMBAR",
+    "label_kab_bps": "KEPULAUAN TANIMBAR"
+  },
+  {
+    "id_kab_webspbu": "ID-PA-SRU",
+    "label_kab_webspbu": "Kabupaten Kepulauan Yapen",
+    "id_kab_bps": "9408",
+    "id_kab_dagri": "91.05",
+    "id_kab_sap_cnt": "2606",
+    "label_kab_kota": "KEPULAUAN YAPEN",
+    "label_kab_bps": "KEPULAUAN YAPEN"
+  },
+  {
+    "id_kab_webspbu": "ID-JA-KRN",
+    "label_kab_webspbu": "Kabupaten Kerinci",
+    "id_kab_bps": "1501",
+    "id_kab_dagri": "15.01",
+    "id_kab_sap_cnt": "1010",
+    "label_kab_kota": "KERINCI",
+    "label_kab_bps": "KERINCI"
+  },
+  {
+    "id_kab_webspbu": "ID-KB-KTP",
+    "label_kab_webspbu": "Kabupaten Ketapang",
+    "id_kab_bps": "6106",
+    "id_kab_dagri": "61.04",
+    "id_kab_sap_cnt": "1507",
+    "label_kab_kota": "KETAPANG",
+    "label_kab_bps": "KETAPANG"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-KLN",
+    "label_kab_webspbu": "Kabupaten Klaten",
+    "id_kab_bps": "3310",
+    "id_kab_dagri": "33.1",
+    "id_kab_sap_cnt": "333",
+    "label_kab_kota": "KLATEN",
+    "label_kab_bps": "KLATEN"
+  },
+  {
+    "id_kab_webspbu": "ID-BA-SRP",
+    "label_kab_webspbu": "Kabupaten Klungkung",
+    "id_kab_bps": "5105",
+    "id_kab_dagri": "51.05",
+    "id_kab_sap_cnt": "2214",
+    "label_kab_kota": "KLUNGKUNG",
+    "label_kab_bps": "KLUNGKUNG"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-KKA",
+    "label_kab_webspbu": "Kabupaten Kolaka",
+    "id_kab_bps": "7404",
+    "id_kab_dagri": "74.01",
+    "id_kab_sap_cnt": "1904",
+    "label_kab_kota": "KOLAKA",
+    "label_kab_bps": "KOLAKA"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-KKT",
+    "label_kab_webspbu": "Kabupaten Kolaka Timur",
+    "id_kab_bps": "7411",
+    "id_kab_dagri": "74.11",
+    "id_kab_sap_cnt": "1913",
+    "label_kab_kota": "KOLAKA TIMUR",
+    "label_kab_bps": "KOLAKA TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-LSS",
+    "label_kab_webspbu": "Kabupaten Kolaka Utara",
+    "id_kab_bps": "7408",
+    "id_kab_dagri": "74.08",
+    "id_kab_sap_cnt": "1909",
+    "label_kab_kota": "KOLAKA UTARA",
+    "label_kab_bps": "KOLAKA UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-UNH",
+    "label_kab_webspbu": "Kabupaten Konawe",
+    "id_kab_bps": "7403",
+    "id_kab_dagri": "74.02",
+    "id_kab_sap_cnt": "1902",
+    "label_kab_kota": "KONAWE",
+    "label_kab_bps": "KONAWE"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-ADL",
+    "label_kab_webspbu": "Kabupaten Konawe Selatan",
+    "id_kab_bps": "7405",
+    "id_kab_dagri": "74.05",
+    "id_kab_sap_cnt": "1908",
+    "label_kab_kota": "KONAWE SELATAN",
+    "label_kab_bps": "KONAWE SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-WGD",
+    "label_kab_webspbu": "Kabupaten Konawe Utara",
+    "id_kab_bps": "7410",
+    "id_kab_dagri": "74.09",
+    "id_kab_sap_cnt": "1911",
+    "label_kab_kota": "KONAWE UTARA",
+    "label_kab_bps": "KONAWE UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-KS-KBR",
+    "label_kab_webspbu": "Kabupaten Kotabaru",
+    "id_kab_bps": "6302",
+    "id_kab_dagri": "63.02",
+    "id_kab_sap_cnt": "1405",
+    "label_kab_kota": "KOTABARU",
+    "label_kab_bps": "KOTABARU"
+  },
+  {
+    "id_kab_webspbu": "ID-KT-PBU",
+    "label_kab_webspbu": "Kabupaten Kotawaringin Barat",
+    "id_kab_bps": "6201",
+    "id_kab_dagri": "62.01",
+    "id_kab_sap_cnt": "1605",
+    "label_kab_kota": "KOTAWARINGIN BARAT",
+    "label_kab_bps": "KOTAWARINGIN BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-KT-SPT",
+    "label_kab_webspbu": "Kabupaten Kotawaringin Timur",
+    "id_kab_bps": "6202",
+    "id_kab_dagri": "62.02",
+    "id_kab_sap_cnt": "1602",
+    "label_kab_kota": "KOTAWARINGIN TIMUR",
+    "label_kab_bps": "KOTAWARINGIN TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-RI-TLK",
+    "label_kab_webspbu": "Kabupaten Kuantan Singingi",
+    "id_kab_bps": "1401",
+    "id_kab_dagri": "14.09",
+    "id_kab_sap_cnt": "907",
+    "label_kab_kota": "KUANTAN SINGINGI",
+    "label_kab_bps": "KUANTAN SINGINGI"
+  },
+  {
+    "id_kab_webspbu": "ID-KB-SRY",
+    "label_kab_webspbu": "Kabupaten Kubu Raya",
+    "id_kab_bps": "6112",
+    "id_kab_dagri": "61.12",
+    "id_kab_sap_cnt": "1513",
+    "label_kab_kota": "KUBU RAYA",
+    "label_kab_bps": "KUBU RAYA"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-KDS",
+    "label_kab_webspbu": "Kabupaten Kudus",
+    "id_kab_bps": "3319",
+    "id_kab_dagri": "33.19",
+    "id_kab_sap_cnt": "306",
+    "label_kab_kota": "KUDUS",
+    "label_kab_bps": "KUDUS"
+  },
+  {
+    "id_kab_webspbu": "ID-YO-WAT",
+    "label_kab_webspbu": "Kabupaten Kulon Progo",
+    "id_kab_bps": "3401",
+    "id_kab_dagri": "34.01",
+    "id_kab_sap_cnt": "504",
+    "label_kab_kota": "KULON PROGO",
+    "label_kab_bps": "KULON PROGO"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-KNG",
+    "label_kab_webspbu": "Kabupaten Kuningan",
+    "id_kab_bps": "3208",
+    "id_kab_dagri": "32.08",
+    "id_kab_sap_cnt": "234",
+    "label_kab_kota": "KUNINGAN",
+    "label_kab_bps": "KUNINGAN"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-KPA",
+    "label_kab_webspbu": "Kabupaten Kupang",
+    "id_kab_bps": "5303",
+    "id_kab_dagri": "53.01",
+    "id_kab_sap_cnt": "2411",
+    "label_kab_kota": "KUPANG",
+    "label_kab_bps": "KUPANG"
+  },
+  {
+    "id_kab_webspbu": "ID-KI-SDW",
+    "label_kab_webspbu": "Kabupaten Kutai Barat",
+    "id_kab_bps": "6402",
+    "id_kab_dagri": "64.07",
+    "id_kab_sap_cnt": "1713",
+    "label_kab_kota": "KUTAI BARAT",
+    "label_kab_bps": "KUTAI BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-KI-TRG",
+    "label_kab_webspbu": "Kabupaten Kutai Kartanegara",
+    "id_kab_bps": "6403",
+    "id_kab_dagri": "64.02",
+    "id_kab_sap_cnt": "1711",
+    "label_kab_kota": "KUTAI KARTANEGARA",
+    "label_kab_bps": "KUTAI KARTANEGARA"
+  },
+  {
+    "id_kab_webspbu": "ID-KI-SGT",
+    "label_kab_webspbu": "Kabupaten Kutai Timur",
+    "id_kab_bps": "6404",
+    "id_kab_dagri": "64.08",
+    "id_kab_sap_cnt": "1712",
+    "label_kab_kota": "KUTAI TIMUR",
+    "label_kab_bps": "KUTAI TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-RAP",
+    "label_kab_webspbu": "Kabupaten Labuhanbatu",
+    "id_kab_bps": "1207",
+    "id_kab_dagri": "12.1",
+    "id_kab_sap_cnt": "711",
+    "label_kab_kota": "LABUHANBATU",
+    "label_kab_bps": "LABUHAN BATU"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-KPI",
+    "label_kab_webspbu": "Kabupaten Labuhanbatu Selatan",
+    "id_kab_bps": "1222",
+    "id_kab_dagri": "12.22",
+    "id_kab_sap_cnt": "729",
+    "label_kab_kota": "LABUHANBATU SELATAN",
+    "label_kab_bps": "LABUHAN BATU SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-AKK",
+    "label_kab_webspbu": "Kabupaten Labuhanbatu Utara",
+    "id_kab_bps": "1223",
+    "id_kab_dagri": "12.23",
+    "id_kab_sap_cnt": "730",
+    "label_kab_kota": "LABUHANBATU UTARA",
+    "label_kab_bps": "LABUHAN BATU UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-LHT",
+    "label_kab_webspbu": "Kabupaten Lahat",
+    "id_kab_bps": "1604",
+    "id_kab_dagri": "16.04",
+    "id_kab_sap_cnt": "1106",
+    "label_kab_kota": "LAHAT",
+    "label_kab_bps": "LAHAT"
+  },
+  {
+    "id_kab_webspbu": "ID-KT-NGB",
+    "label_kab_webspbu": "Kabupaten Lamandau",
+    "id_kab_bps": "6207",
+    "id_kab_dagri": "62.09",
+    "id_kab_sap_cnt": "1606",
+    "label_kab_kota": "LAMANDAU",
+    "label_kab_bps": "LAMANDAU"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-LMG",
+    "label_kab_webspbu": "Kabupaten Lamongan",
+    "id_kab_bps": "3524",
+    "id_kab_dagri": "35.24",
+    "id_kab_sap_cnt": "415",
+    "label_kab_kota": "LAMONGAN",
+    "label_kab_bps": "LAMONGAN"
+  },
+  {
+    "id_kab_webspbu": "ID-LA-LIW",
+    "label_kab_webspbu": "Kabupaten Lampung Barat",
+    "id_kab_bps": "1801",
+    "id_kab_dagri": "18.04",
+    "id_kab_sap_cnt": "1310",
+    "label_kab_kota": "LAMPUNG BARAT",
+    "label_kab_bps": "LAMPUNG BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-LA-KLA",
+    "label_kab_webspbu": "Kabupaten Lampung Selatan",
+    "id_kab_bps": "1803",
+    "id_kab_dagri": "18.01",
+    "id_kab_sap_cnt": "1307",
+    "label_kab_kota": "LAMPUNG SELATAN",
+    "label_kab_bps": "LAMPUNG SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-LA-GNS",
+    "label_kab_webspbu": "Kabupaten Lampung Tengah",
+    "id_kab_bps": "1805",
+    "id_kab_dagri": "18.02",
+    "id_kab_sap_cnt": "1308",
+    "label_kab_kota": "LAMPUNG TENGAH",
+    "label_kab_bps": "LAMPUNG TENGAH"
+  },
+  {
+    "id_kab_webspbu": "ID-LA-SDN",
+    "label_kab_webspbu": "Kabupaten Lampung Timur",
+    "id_kab_bps": "1804",
+    "id_kab_dagri": "18.07",
+    "id_kab_sap_cnt": "1309",
+    "label_kab_kota": "LAMPUNG TIMUR",
+    "label_kab_bps": "LAMPUNG TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-LA-KTB",
+    "label_kab_webspbu": "Kabupaten Lampung Utara",
+    "id_kab_bps": "1806",
+    "id_kab_dagri": "18.03",
+    "id_kab_sap_cnt": "1306",
+    "label_kab_kota": "LAMPUNG UTARA",
+    "label_kab_bps": "LAMPUNG UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-KB-NBA",
+    "label_kab_webspbu": "Kabupaten Landak",
+    "id_kab_bps": "6103",
+    "id_kab_dagri": "61.08",
+    "id_kab_sap_cnt": "1504",
+    "label_kab_kota": "LANDAK",
+    "label_kab_bps": "LANDAK"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-STB",
+    "label_kab_webspbu": "Kabupaten Langkat",
+    "id_kab_bps": "1213",
+    "id_kab_dagri": "12.05",
+    "id_kab_sap_cnt": "712",
+    "label_kab_kota": "LANGKAT",
+    "label_kab_bps": "LANGKAT"
+  },
+  {
+    "id_kab_webspbu": "ID-BT-RKB",
+    "label_kab_webspbu": "Kabupaten Lebak",
+    "id_kab_bps": "3602",
+    "id_kab_dagri": "36.02",
+    "id_kab_sap_cnt": "2812",
+    "label_kab_kota": "LEBAK",
+    "label_kab_bps": "LEBAK"
+  },
+  {
+    "id_kab_webspbu": "ID-BE-TUB",
+    "label_kab_webspbu": "Kabupaten Lebong",
+    "id_kab_bps": "1707",
+    "id_kab_dagri": "17.07",
+    "id_kab_sap_cnt": "1209",
+    "label_kab_kota": "LEBONG",
+    "label_kab_bps": "LEBONG"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-LWL",
+    "label_kab_webspbu": "Kabupaten Lembata",
+    "id_kab_bps": "5308",
+    "id_kab_dagri": "53.13",
+    "id_kab_sap_cnt": "2423",
+    "label_kab_kota": "LEMBATA",
+    "label_kab_bps": "LEMBATA"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-SRK",
+    "label_kab_webspbu": "Kabupaten Lima Puluh Kota",
+    "id_kab_bps": "1308",
+    "id_kab_dagri": "13.07",
+    "id_kab_sap_cnt": "808",
+    "label_kab_kota": "LIMA PULUH KOTA",
+    "label_kab_bps": "LIMA PULUH KOTA"
+  },
+  {
+    "id_kab_webspbu": "ID-NB-GRG",
+    "label_kab_webspbu": "Kabupaten Lombok Barat",
+    "id_kab_bps": "5201",
+    "id_kab_dagri": "52.01",
+    "id_kab_sap_cnt": "2311",
+    "label_kab_kota": "LOMBOK BARAT",
+    "label_kab_bps": "LOMBOK BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-NB-PYA",
+    "label_kab_webspbu": "Kabupaten Lombok Tengah",
+    "id_kab_bps": "5202",
+    "id_kab_dagri": "52.02",
+    "id_kab_sap_cnt": "2312",
+    "label_kab_kota": "LOMBOK TENGAH",
+    "label_kab_bps": "LOMBOK TENGAH"
+  },
+  {
+    "id_kab_webspbu": "ID-NB-SEL",
+    "label_kab_webspbu": "Kabupaten Lombok Timur",
+    "id_kab_bps": "5203",
+    "id_kab_dagri": "52.03",
+    "id_kab_sap_cnt": "2313",
+    "label_kab_kota": "LOMBOK TIMUR",
+    "label_kab_bps": "LOMBOK TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-NB-TJN",
+    "label_kab_webspbu": "Kabupaten Lombok Utara",
+    "id_kab_bps": "5208",
+    "id_kab_dagri": "52.08",
+    "id_kab_sap_cnt": "2319",
+    "label_kab_kota": "LOMBOK UTARA",
+    "label_kab_bps": "LOMBOK UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-LMJ",
+    "label_kab_webspbu": "Kabupaten Lumajang",
+    "id_kab_bps": "3508",
+    "id_kab_dagri": "35.08",
+    "id_kab_sap_cnt": "426",
+    "label_kab_kota": "LUMAJANG",
+    "label_kab_bps": "LUMAJANG"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-LUW",
+    "label_kab_webspbu": "Kabupaten Luwu",
+    "id_kab_bps": "7317",
+    "id_kab_dagri": "73.17",
+    "id_kab_sap_cnt": "1810",
+    "label_kab_kota": "LUWU",
+    "label_kab_bps": "LUWU"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-MLL",
+    "label_kab_webspbu": "Kabupaten Luwu Timur",
+    "id_kab_bps": "7325",
+    "id_kab_dagri": "73.24",
+    "id_kab_sap_cnt": "1826",
+    "label_kab_kota": "LUWU TIMUR",
+    "label_kab_bps": "LUWU TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-MSB",
+    "label_kab_webspbu": "Kabupaten Luwu Utara",
+    "id_kab_bps": "7322",
+    "id_kab_dagri": "73.22",
+    "id_kab_sap_cnt": "1811",
+    "label_kab_kota": "LUWU UTARA",
+    "label_kab_bps": "LUWU UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-MJY",
+    "label_kab_webspbu": "Kabupaten Madiun",
+    "id_kab_bps": "3519",
+    "id_kab_dagri": "35.19",
+    "id_kab_sap_cnt": "431",
+    "label_kab_kota": "MADIUN",
+    "label_kab_bps": "MADIUN"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-MKD",
+    "label_kab_webspbu": "Kabupaten Magelang",
+    "id_kab_bps": "3308",
+    "id_kab_dagri": "33.08",
+    "id_kab_sap_cnt": "326",
+    "label_kab_kota": "MAGELANG",
+    "label_kab_bps": "MAGELANG"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-MGT",
+    "label_kab_webspbu": "Kabupaten Magetan",
+    "id_kab_bps": "3520",
+    "id_kab_dagri": "35.2",
+    "id_kab_sap_cnt": "418",
+    "label_kab_kota": "MAGETAN",
+    "label_kab_bps": "MAGETAN"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-MJL",
+    "label_kab_webspbu": "Kabupaten Majalengka",
+    "id_kab_bps": "3210",
+    "id_kab_dagri": "32.1",
+    "id_kab_sap_cnt": "235",
+    "label_kab_kota": "MAJALENGKA",
+    "label_kab_bps": "MAJALENGKA"
+  },
+  {
+    "id_kab_webspbu": "ID-SR-MJN",
+    "label_kab_webspbu": "Kabupaten Majene",
+    "id_kab_bps": "7601",
+    "id_kab_dagri": "76.05",
+    "id_kab_sap_cnt": "3205",
+    "label_kab_kota": "MAJENE",
+    "label_kab_bps": "MAJENE"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-MAL",
+    "label_kab_webspbu": "Kabupaten Malaka",
+    "id_kab_bps": "5321",
+    "id_kab_dagri": "53.21",
+    "id_kab_sap_cnt": "2431",
+    "label_kab_kota": "MALAKA",
+    "label_kab_bps": "MALAKA"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-KPN",
+    "label_kab_webspbu": "Kabupaten Malang",
+    "id_kab_bps": "3507",
+    "id_kab_dagri": "35.07",
+    "id_kab_sap_cnt": "451",
+    "label_kab_kota": "MALANG",
+    "label_kab_bps": "MALANG"
+  },
+  {
+    "id_kab_webspbu": "ID-MA-MSH",
+    "label_kab_webspbu": "Kabupaten Maluku Tengah",
+    "id_kab_bps": "8103",
+    "id_kab_dagri": "81.01",
+    "id_kab_sap_cnt": "2502",
+    "label_kab_kota": "MALUKU TENGAH",
+    "label_kab_bps": "MALUKU TENGAH"
+  },
+  {
+    "id_kab_webspbu": "ID-MA-MTA",
+    "label_kab_webspbu": "Kabupaten Maluku Tenggara",
+    "id_kab_bps": "8102",
+    "id_kab_dagri": "81.02",
+    "id_kab_sap_cnt": "2505",
+    "label_kab_kota": "MALUKU TENGGARA",
+    "label_kab_bps": "MALUKU TENGGARA"
+  },
+  {
+    "id_kab_webspbu": "ID-SR-MMS",
+    "label_kab_webspbu": "Kabupaten Mamasa",
+    "id_kab_bps": "7603",
+    "id_kab_dagri": "76.03",
+    "id_kab_sap_cnt": "3203",
+    "label_kab_kota": "MAMASA",
+    "label_kab_bps": "MAMASA"
+  },
+  {
+    "id_kab_webspbu": "ID-SR-MAM",
+    "label_kab_webspbu": "Kabupaten Mamuju",
+    "id_kab_bps": "7604",
+    "id_kab_dagri": "76.02",
+    "id_kab_sap_cnt": "3201",
+    "label_kab_kota": "MAMUJU",
+    "label_kab_bps": "MAMUJU"
+  },
+  {
+    "id_kab_webspbu": "ID-SR-MAT",
+    "label_kab_webspbu": "Kabupaten Mamuju Tengah",
+    "id_kab_bps": "7606",
+    "id_kab_dagri": "76.06",
+    "id_kab_sap_cnt": "3206",
+    "label_kab_kota": "MAMUJU TENGAH",
+    "label_kab_bps": "MAMUJU TENGAH"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-PYB",
+    "label_kab_webspbu": "Kabupaten Mandailing Natal",
+    "id_kab_bps": "1202",
+    "id_kab_dagri": "12.13",
+    "id_kab_sap_cnt": "713",
+    "label_kab_kota": "MANDAILING NATAL",
+    "label_kab_bps": "MANDAILING NATAL"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-RTG",
+    "label_kab_webspbu": "Kabupaten Manggarai",
+    "id_kab_bps": "5313",
+    "id_kab_dagri": "53.1",
+    "id_kab_sap_cnt": "2420",
+    "label_kab_kota": "MANGGARAI",
+    "label_kab_bps": "MANGGARAI"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-LBJ",
+    "label_kab_webspbu": "Kabupaten Manggarai Barat",
+    "id_kab_bps": "5315",
+    "id_kab_dagri": "53.15",
+    "id_kab_sap_cnt": "2424",
+    "label_kab_kota": "MANGGARAI BARAT",
+    "label_kab_bps": "MANGGARAI BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-BRG",
+    "label_kab_webspbu": "Kabupaten Manggarai Timur",
+    "id_kab_bps": "5319",
+    "id_kab_dagri": "53.19",
+    "id_kab_sap_cnt": "2429",
+    "label_kab_kota": "MANGGARAI TIMUR",
+    "label_kab_bps": "MANGGARAI TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-PB-MNK",
+    "label_kab_webspbu": "Kabupaten Manokwari",
+    "id_kab_bps": "9105",
+    "id_kab_dagri": "92.02",
+    "id_kab_sap_cnt": "3303",
+    "label_kab_kota": "MANOKWARI",
+    "label_kab_bps": "MANOKWARI"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-MRS",
+    "label_kab_webspbu": "Kabupaten Maros",
+    "id_kab_bps": "7308",
+    "id_kab_dagri": "73.09",
+    "id_kab_sap_cnt": "1814",
+    "label_kab_kota": "MAROS",
+    "label_kab_bps": "MAROS"
+  },
+  {
+    "id_kab_webspbu": "ID-KB-NGP",
+    "label_kab_webspbu": "Kabupaten Melawi",
+    "id_kab_bps": "6110",
+    "id_kab_dagri": "61.1",
+    "id_kab_sap_cnt": "1512",
+    "label_kab_kota": "MELAWI",
+    "label_kab_bps": "MELAWI"
+  },
+  {
+    "id_kab_webspbu": "ID-KB-MPW",
+    "label_kab_webspbu": "Kabupaten Mempawah",
+    "id_kab_bps": "6104",
+    "id_kab_dagri": "61.02",
+    "id_kab_sap_cnt": "1502",
+    "label_kab_kota": "MEMPAWAH",
+    "label_kab_bps": "MEMPAWAH"
+  },
+  {
+    "id_kab_webspbu": "ID-JA-BKO",
+    "label_kab_webspbu": "Kabupaten Merangin",
+    "id_kab_bps": "1502",
+    "id_kab_dagri": "15.02",
+    "id_kab_sap_cnt": "1002",
+    "label_kab_kota": "MERANGIN",
+    "label_kab_bps": "MERANGIN"
+  },
+  {
+    "id_kab_webspbu": "ID-PA-MRK",
+    "label_kab_webspbu": "Kabupaten Merauke",
+    "id_kab_bps": "9401",
+    "id_kab_dagri": "91.01",
+    "id_kab_sap_cnt": "2603",
+    "label_kab_kota": "MERAUKE",
+    "label_kab_bps": "MERAUKE"
+  },
+  {
+    "id_kab_webspbu": "ID-LA-MSJ",
+    "label_kab_webspbu": "Kabupaten Mesuji",
+    "id_kab_bps": "1811",
+    "id_kab_dagri": "18.11",
+    "id_kab_sap_cnt": "1314",
+    "label_kab_kota": "MESUJI",
+    "label_kab_bps": "MESUJI"
+  },
+  {
+    "id_kab_webspbu": "ID-PA-TIM",
+    "label_kab_webspbu": "Kabupaten Mimika",
+    "id_kab_bps": "9412",
+    "id_kab_dagri": "91.09",
+    "id_kab_sap_cnt": "2608",
+    "label_kab_kota": "MIMIKA",
+    "label_kab_bps": "MIMIKA"
+  },
+  {
+    "id_kab_webspbu": "ID-SA-TNN",
+    "label_kab_webspbu": "Kabupaten Minahasa",
+    "id_kab_bps": "7102",
+    "id_kab_dagri": "71.02",
+    "id_kab_sap_cnt": "2108",
+    "label_kab_kota": "MINAHASA",
+    "label_kab_bps": "MINAHASA"
+  },
+  {
+    "id_kab_webspbu": "ID-SA-AMR",
+    "label_kab_webspbu": "Kabupaten Minahasa Selatan",
+    "id_kab_bps": "7105",
+    "id_kab_dagri": "71.05",
+    "id_kab_sap_cnt": "2104",
+    "label_kab_kota": "MINAHASA SELATAN",
+    "label_kab_bps": "MINAHASA SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SA-RTN",
+    "label_kab_webspbu": "Kabupaten Minahasa Tenggara",
+    "id_kab_bps": "7109",
+    "id_kab_dagri": "71.07",
+    "id_kab_sap_cnt": "2114",
+    "label_kab_kota": "MINAHASA TENGGARA",
+    "label_kab_bps": "MINAHASA TENGGARA"
+  },
+  {
+    "id_kab_webspbu": "ID-SA-ARM",
+    "label_kab_webspbu": "Kabupaten Minahasa Utara",
+    "id_kab_bps": "7106",
+    "id_kab_dagri": "71.06",
+    "id_kab_sap_cnt": "2107",
+    "label_kab_kota": "MINAHASA UTARA",
+    "label_kab_bps": "MINAHASA UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-MJO",
+    "label_kab_webspbu": "Kabupaten Mojokerto",
+    "id_kab_bps": "3516",
+    "id_kab_dagri": "35.16",
+    "id_kab_sap_cnt": "421",
+    "label_kab_kota": "MOJOKERTO",
+    "label_kab_bps": "MOJOKERTO"
+  },
+  {
+    "id_kab_webspbu": "ID-ST-BGK",
+    "label_kab_webspbu": "Kabupaten Morowali",
+    "id_kab_bps": "7203",
+    "id_kab_dagri": "72.06",
+    "id_kab_sap_cnt": "2008",
+    "label_kab_kota": "MOROWALI",
+    "label_kab_bps": "MOROWALI"
+  },
+  {
+    "id_kab_webspbu": "ID-ST-MOU",
+    "label_kab_webspbu": "Kabupaten Morowali Utara",
+    "id_kab_bps": "7212",
+    "id_kab_dagri": "72.12",
+    "id_kab_sap_cnt": "2012",
+    "label_kab_kota": "MOROWALI UTARA",
+    "label_kab_bps": "MOROWALI UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-MRE",
+    "label_kab_webspbu": "Kabupaten Muara Enim",
+    "id_kab_bps": "1603",
+    "id_kab_dagri": "16.03",
+    "id_kab_sap_cnt": "1104",
+    "label_kab_kota": "MUARA ENIM",
+    "label_kab_bps": "MUARA ENIM"
+  },
+  {
+    "id_kab_webspbu": "ID-JA-SNT",
+    "label_kab_webspbu": "Kabupaten Muaro Jambi",
+    "id_kab_bps": "1505",
+    "id_kab_dagri": "15.05",
+    "id_kab_sap_cnt": "1004",
+    "label_kab_kota": "MUARO JAMBI",
+    "label_kab_bps": "MUARO JAMBI"
+  },
+  {
+    "id_kab_webspbu": "ID-BE-MKM",
+    "label_kab_webspbu": "Kabupaten Mukomuko",
+    "id_kab_bps": "1706",
+    "id_kab_dagri": "17.06",
+    "id_kab_sap_cnt": "1207",
+    "label_kab_kota": "MUKOMUKO",
+    "label_kab_bps": "MUKOMUKO"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-RAH",
+    "label_kab_webspbu": "Kabupaten Muna",
+    "id_kab_bps": "7402",
+    "id_kab_dagri": "74.03",
+    "id_kab_sap_cnt": "1905",
+    "label_kab_kota": "MUNA",
+    "label_kab_bps": "MUNA"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-MUB",
+    "label_kab_webspbu": "Kabupaten Muna Barat",
+    "id_kab_bps": "7413",
+    "id_kab_dagri": "74.13",
+    "id_kab_sap_cnt": "1915",
+    "label_kab_kota": "MUNA BARAT",
+    "label_kab_bps": "MUNA BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-KT-PRC",
+    "label_kab_webspbu": "Kabupaten Murung Raya",
+    "id_kab_bps": "6213",
+    "id_kab_dagri": "62.12",
+    "id_kab_sap_cnt": "1614",
+    "label_kab_kota": "MURUNG RAYA",
+    "label_kab_bps": "MURUNG RAYA"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-SKY",
+    "label_kab_webspbu": "Kabupaten Musi Banyuasin",
+    "id_kab_bps": "1606",
+    "id_kab_dagri": "16.06",
+    "id_kab_sap_cnt": "1102",
+    "label_kab_kota": "MUSI BANYUASIN",
+    "label_kab_bps": "MUSI BANYUASIN"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-MBL",
+    "label_kab_webspbu": "Kabupaten Musi Rawas",
+    "id_kab_bps": "1605",
+    "id_kab_dagri": "16.05",
+    "id_kab_sap_cnt": "1107",
+    "label_kab_kota": "MUSI RAWAS",
+    "label_kab_bps": "MUSI RAWAS"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-MRU",
+    "label_kab_webspbu": "Kabupaten Musi Rawas Utara",
+    "id_kab_bps": "1613",
+    "id_kab_dagri": "16.13",
+    "id_kab_sap_cnt": "1117",
+    "label_kab_kota": "MUSI RAWAS UTARA",
+    "label_kab_bps": "MUSI RAWAS UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-PA-NAB",
+    "label_kab_webspbu": "Kabupaten Nabire",
+    "id_kab_bps": "9404",
+    "id_kab_dagri": "91.04",
+    "id_kab_sap_cnt": "2619",
+    "label_kab_kota": "NABIRE",
+    "label_kab_bps": "NABIRE"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-SKM",
+    "label_kab_webspbu": "Kabupaten Nagan Raya",
+    "id_kab_bps": "1115",
+    "id_kab_dagri": "11.15",
+    "id_kab_sap_cnt": "616",
+    "label_kab_kota": "NAGAN RAYA",
+    "label_kab_bps": "NAGAN RAYA"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-MBY",
+    "label_kab_webspbu": "Kabupaten Nagekeo",
+    "id_kab_bps": "5318",
+    "id_kab_dagri": "53.16",
+    "id_kab_sap_cnt": "2426",
+    "label_kab_kota": "NAGEKEO",
+    "label_kab_bps": "NAGEKEO"
+  },
+  {
+    "id_kab_webspbu": "ID-KR-RAN",
+    "label_kab_webspbu": "Kabupaten Natuna",
+    "id_kab_bps": "2103",
+    "id_kab_dagri": "21.03",
+    "id_kab_sap_cnt": "3104",
+    "label_kab_kota": "NATUNA",
+    "label_kab_bps": "NATUNA"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-BJW",
+    "label_kab_webspbu": "Kabupaten Ngada",
+    "id_kab_bps": "5312",
+    "id_kab_dagri": "53.09",
+    "id_kab_sap_cnt": "2419",
+    "label_kab_kota": "NGADA",
+    "label_kab_bps": "NGADA"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-NJK",
+    "label_kab_webspbu": "Kabupaten Nganjuk",
+    "id_kab_bps": "3518",
+    "id_kab_dagri": "35.18",
+    "id_kab_sap_cnt": "423",
+    "label_kab_kota": "NGANJUK",
+    "label_kab_bps": "NGANJUK"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-NGW",
+    "label_kab_webspbu": "Kabupaten Ngawi",
+    "id_kab_bps": "3521",
+    "id_kab_dagri": "35.21",
+    "id_kab_sap_cnt": "417",
+    "label_kab_kota": "NGAWI",
+    "label_kab_bps": "NGAWI"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-NIA",
+    "label_kab_webspbu": "Kabupaten Nias",
+    "id_kab_bps": "1201",
+    "id_kab_dagri": "12.04",
+    "id_kab_sap_cnt": "714",
+    "label_kab_kota": "NIAS",
+    "label_kab_bps": "NIAS"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-LHM",
+    "label_kab_webspbu": "Kabupaten Nias Barat",
+    "id_kab_bps": "1225",
+    "id_kab_dagri": "12.25",
+    "id_kab_sap_cnt": "732",
+    "label_kab_kota": "NIAS BARAT",
+    "label_kab_bps": "NIAS BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-TLD",
+    "label_kab_webspbu": "Kabupaten Nias Selatan",
+    "id_kab_bps": "1214",
+    "id_kab_dagri": "12.14",
+    "id_kab_sap_cnt": "725",
+    "label_kab_kota": "NIAS SELATAN",
+    "label_kab_bps": "NIAS SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-LTU",
+    "label_kab_webspbu": "Kabupaten Nias Utara",
+    "id_kab_bps": "1224",
+    "id_kab_dagri": "12.24",
+    "id_kab_sap_cnt": "731",
+    "label_kab_kota": "NIAS UTARA",
+    "label_kab_bps": "NIAS UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-KU-NNK",
+    "label_kab_webspbu": "Kabupaten Nunukan",
+    "id_kab_bps": "6504",
+    "id_kab_dagri": "65.03",
+    "id_kab_sap_cnt": "1706",
+    "label_kab_kota": "NUNUKAN",
+    "label_kab_bps": "NUNUKAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-IDL",
+    "label_kab_webspbu": "Kabupaten Ogan Ilir",
+    "id_kab_bps": "1610",
+    "id_kab_dagri": "16.1",
+    "id_kab_sap_cnt": "1112",
+    "label_kab_kota": "OGAN ILIR",
+    "label_kab_bps": "OGAN ILIR"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-KAG",
+    "label_kab_webspbu": "Kabupaten Ogan Komering Ilir",
+    "id_kab_bps": "1602",
+    "id_kab_dagri": "16.02",
+    "id_kab_sap_cnt": "1103",
+    "label_kab_kota": "OGAN KOMERING ILIR",
+    "label_kab_bps": "OGAN KOMERING ILIR"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-BTA",
+    "label_kab_webspbu": "Kabupaten Ogan Komering Ulu",
+    "id_kab_bps": "1601",
+    "id_kab_dagri": "16.01",
+    "id_kab_sap_cnt": "1105",
+    "label_kab_kota": "OGAN KOMERING ULU",
+    "label_kab_bps": "OGAN KOMERING ULU"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-MRD",
+    "label_kab_webspbu": "Kabupaten Ogan Komering Ulu Selatan",
+    "id_kab_bps": "1608",
+    "id_kab_dagri": "16.09",
+    "id_kab_sap_cnt": "1114",
+    "label_kab_kota": "OGAN KOMERING ULU SELATAN",
+    "label_kab_bps": "OGAN KOMERING ULU SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-MPR",
+    "label_kab_webspbu": "Kabupaten Ogan Komering Ulu Timur",
+    "id_kab_bps": "1609",
+    "id_kab_dagri": "16.08",
+    "id_kab_sap_cnt": "1113",
+    "label_kab_kota": "OGAN KOMERING ULU TIMUR",
+    "label_kab_bps": "OGAN KOMERING ULU TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-PCT",
+    "label_kab_webspbu": "Kabupaten Pacitan",
+    "id_kab_bps": "3501",
+    "id_kab_dagri": "35.01",
+    "id_kab_sap_cnt": "422",
+    "label_kab_kota": "PACITAN",
+    "label_kab_bps": "PACITAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-SBH",
+    "label_kab_webspbu": "Kabupaten Padang Lawas",
+    "id_kab_bps": "1221",
+    "id_kab_dagri": "12.21",
+    "id_kab_sap_cnt": "727",
+    "label_kab_kota": "PADANG LAWAS",
+    "label_kab_bps": "PADANG LAWAS"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-GNT",
+    "label_kab_webspbu": "Kabupaten Padang Lawas Utara",
+    "id_kab_bps": "1220",
+    "id_kab_dagri": "12.2",
+    "id_kab_sap_cnt": "728",
+    "label_kab_kota": "PADANG LAWAS UTARA",
+    "label_kab_bps": "PADANG LAWAS UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-NPM",
+    "label_kab_webspbu": "Kabupaten Padang Pariaman",
+    "id_kab_bps": "1306",
+    "id_kab_dagri": "13.05",
+    "id_kab_sap_cnt": "809",
+    "label_kab_kota": "PADANG PARIAMAN",
+    "label_kab_bps": "PADANG PARIAMAN"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-PMK",
+    "label_kab_webspbu": "Kabupaten Pamekasan",
+    "id_kab_bps": "3528",
+    "id_kab_dagri": "35.28",
+    "id_kab_sap_cnt": "435",
+    "label_kab_kota": "PAMEKASAN",
+    "label_kab_bps": "PAMEKASAN"
+  },
+  {
+    "id_kab_webspbu": "ID-BT-PDG",
+    "label_kab_webspbu": "Kabupaten Pandeglang",
+    "id_kab_bps": "3601",
+    "id_kab_dagri": "36.01",
+    "id_kab_sap_cnt": "2811",
+    "label_kab_kota": "PANDEGLANG",
+    "label_kab_bps": "PANDEGLANG"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-PGN",
+    "label_kab_webspbu": "Kabupaten Pangandaran",
+    "id_kab_bps": "3218",
+    "id_kab_dagri": "32.18",
+    "id_kab_sap_cnt": "239",
+    "label_kab_kota": "PANGANDARAN",
+    "label_kab_bps": "PANGANDARAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-PKJ",
+    "label_kab_webspbu": "Kabupaten Pangkajene Dan Kepulauan",
+    "id_kab_bps": "7309",
+    "id_kab_dagri": "73.1",
+    "id_kab_sap_cnt": "1815",
+    "label_kab_kota": "PANGKAJENE DAN KEPULAUAN",
+    "label_kab_bps": "PANGKAJENE DAN KEPULAUAN"
+  },
+  {
+    "id_kab_webspbu": "ID-ST-PRG",
+    "label_kab_webspbu": "Kabupaten Parigi Moutong",
+    "id_kab_bps": "7208",
+    "id_kab_dagri": "72.08",
+    "id_kab_sap_cnt": "2009",
+    "label_kab_kota": "PARIGI MOUTONG",
+    "label_kab_bps": "PARIGI MOUTONG"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-LBS",
+    "label_kab_webspbu": "Kabupaten Pasaman",
+    "id_kab_bps": "1309",
+    "id_kab_dagri": "13.08",
+    "id_kab_sap_cnt": "810",
+    "label_kab_kota": "PASAMAN",
+    "label_kab_bps": "PASAMAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-SPE",
+    "label_kab_webspbu": "Kabupaten Pasaman Barat",
+    "id_kab_bps": "1312",
+    "id_kab_dagri": "13.12",
+    "id_kab_sap_cnt": "818",
+    "label_kab_kota": "PASAMAN BARAT",
+    "label_kab_bps": "PASAMAN BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-SR-PKY",
+    "label_kab_webspbu": "Kabupaten Pasangkayu",
+    "id_kab_bps": "7605",
+    "id_kab_dagri": "76.01",
+    "id_kab_sap_cnt": "3202",
+    "label_kab_kota": "PASANGKAYU",
+    "label_kab_bps": "PASANGKAYU"
+  },
+  {
+    "id_kab_webspbu": "ID-KI-TGT",
+    "label_kab_webspbu": "Kabupaten Paser",
+    "id_kab_bps": "6401",
+    "id_kab_dagri": "64.01",
+    "id_kab_sap_cnt": "1702",
+    "label_kab_kota": "PASER",
+    "label_kab_bps": "PASER"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-PSR",
+    "label_kab_webspbu": "Kabupaten Pasuruan",
+    "id_kab_bps": "3514",
+    "id_kab_dagri": "35.14",
+    "id_kab_sap_cnt": "471",
+    "label_kab_kota": "PASURUAN",
+    "label_kab_bps": "PASURUAN"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-PTI",
+    "label_kab_webspbu": "Kabupaten Pati",
+    "id_kab_bps": "3318",
+    "id_kab_dagri": "33.18",
+    "id_kab_sap_cnt": "308",
+    "label_kab_kota": "PATI",
+    "label_kab_bps": "PATI"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-KJN",
+    "label_kab_webspbu": "Kabupaten Pekalongan",
+    "id_kab_bps": "3326",
+    "id_kab_dagri": "33.26",
+    "id_kab_sap_cnt": "316",
+    "label_kab_kota": "PEKALONGAN",
+    "label_kab_bps": "PEKALONGAN"
+  },
+  {
+    "id_kab_webspbu": "ID-RI-TLK",
+    "label_kab_webspbu": "Kabupaten Pelalawan",
+    "id_kab_bps": "1404",
+    "id_kab_dagri": "14.05",
+    "id_kab_sap_cnt": "908",
+    "label_kab_kota": "PELALAWAN",
+    "label_kab_bps": "PELALAWAN"
+  },
+  {
+    "id_kab_webspbu": "ID-RI-PKK",
+    "label_kab_webspbu": "Kabupaten Pelalawan",
+    "id_kab_bps": "1404",
+    "id_kab_dagri": "14.05",
+    "id_kab_sap_cnt": "908",
+    "label_kab_kota": "PELALAWAN",
+    "label_kab_bps": "PELALAWAN"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-PML",
+    "label_kab_webspbu": "Kabupaten Pemalang",
+    "id_kab_bps": "3327",
+    "id_kab_dagri": "33.27",
+    "id_kab_sap_cnt": "317",
+    "label_kab_kota": "PEMALANG",
+    "label_kab_bps": "PEMALANG"
+  },
+  {
+    "id_kab_webspbu": "ID-KI-PNJ",
+    "label_kab_webspbu": "Kabupaten Penajam Paser Utara",
+    "id_kab_bps": "6409",
+    "id_kab_dagri": "64.09",
+    "id_kab_sap_cnt": "1703",
+    "label_kab_kota": "PENAJAM PASER UTARA",
+    "label_kab_bps": "PENAJAM PASER UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-PAL",
+    "label_kab_webspbu": "Kabupaten Penukal Abab Lematang Ilir",
+    "id_kab_bps": "1612",
+    "id_kab_dagri": "16.12",
+    "id_kab_sap_cnt": "1116",
+    "label_kab_kota": "PENUKAL ABAB LEMATANG ILIR",
+    "label_kab_bps": "PENUKAL ABAB LEMATANG ILIR"
+  },
+  {
+    "id_kab_webspbu": "ID-LA-GDT",
+    "label_kab_webspbu": "Kabupaten Pesawaran",
+    "id_kab_bps": "1809",
+    "id_kab_dagri": "18.09",
+    "id_kab_sap_cnt": "1311",
+    "label_kab_kota": "PESAWARAN",
+    "label_kab_bps": "PESAWARAN"
+  },
+  {
+    "id_kab_webspbu": "ID-LA-PSB",
+    "label_kab_webspbu": "Kabupaten Pesisir Barat",
+    "id_kab_bps": "1813",
+    "id_kab_dagri": "18.13",
+    "id_kab_sap_cnt": "1315",
+    "label_kab_kota": "PESISIR BARAT",
+    "label_kab_bps": "PESISIR BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-PNN",
+    "label_kab_webspbu": "Kabupaten Pesisir Selatan",
+    "id_kab_bps": "1302",
+    "id_kab_dagri": "13.01",
+    "id_kab_sap_cnt": "811",
+    "label_kab_kota": "PESISIR SELATAN",
+    "label_kab_bps": "PESISIR SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-SGI",
+    "label_kab_webspbu": "Kabupaten Pidie",
+    "id_kab_bps": "1109",
+    "id_kab_dagri": "11.07",
+    "id_kab_sap_cnt": "611",
+    "label_kab_kota": "PIDIE",
+    "label_kab_bps": "PIDIE"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-MRN",
+    "label_kab_webspbu": "Kabupaten Pidie Jaya",
+    "id_kab_bps": "1118",
+    "id_kab_dagri": "11.18",
+    "id_kab_sap_cnt": "622",
+    "label_kab_kota": "PIDIE JAYA",
+    "label_kab_bps": "PIDIE JAYA"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-PIN",
+    "label_kab_webspbu": "Kabupaten Pinrang",
+    "id_kab_bps": "7315",
+    "id_kab_dagri": "73.15",
+    "id_kab_sap_cnt": "1816",
+    "label_kab_kota": "PINRANG",
+    "label_kab_bps": "PINRANG"
+  },
+  {
+    "id_kab_webspbu": "ID-GO-MAR",
+    "label_kab_webspbu": "Kabupaten Pohuwato",
+    "id_kab_bps": "7503",
+    "id_kab_dagri": "75.04",
+    "id_kab_sap_cnt": "2904",
+    "label_kab_kota": "POHUWATO",
+    "label_kab_bps": "POHUWATO"
+  },
+  {
+    "id_kab_webspbu": "ID-SR-PLW",
+    "label_kab_webspbu": "Kabupaten Polewali Mandar",
+    "id_kab_bps": "7602",
+    "id_kab_dagri": "76.04",
+    "id_kab_sap_cnt": "3204",
+    "label_kab_kota": "POLEWALI MANDAR",
+    "label_kab_bps": "POLEWALI MANDAR"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-PNG",
+    "label_kab_webspbu": "Kabupaten Ponorogo",
+    "id_kab_bps": "3502",
+    "id_kab_dagri": "35.02",
+    "id_kab_sap_cnt": "419",
+    "label_kab_kota": "PONOROGO",
+    "label_kab_bps": "PONOROGO"
+  },
+  {
+    "id_kab_webspbu": "ID-ST-PSO",
+    "label_kab_webspbu": "Kabupaten Poso",
+    "id_kab_bps": "7204",
+    "id_kab_dagri": "72.02",
+    "id_kab_sap_cnt": "2006",
+    "label_kab_kota": "POSO",
+    "label_kab_bps": "POSO"
+  },
+  {
+    "id_kab_webspbu": "ID-LA-PRW",
+    "label_kab_webspbu": "Kabupaten Pringsewu",
+    "id_kab_bps": "1810",
+    "id_kab_dagri": "18.1",
+    "id_kab_sap_cnt": "1312",
+    "label_kab_kota": "PRINGSEWU",
+    "label_kab_bps": "PRINGSEWU"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-KRS",
+    "label_kab_webspbu": "Kabupaten Probolinggo",
+    "id_kab_bps": "3513",
+    "id_kab_dagri": "35.13",
+    "id_kab_sap_cnt": "481",
+    "label_kab_kota": "PROBOLINGGO",
+    "label_kab_bps": "PROBOLINGGO"
+  },
+  {
+    "id_kab_webspbu": "ID-KT-PPS",
+    "label_kab_webspbu": "Kabupaten Pulang Pisau",
+    "id_kab_bps": "6210",
+    "id_kab_dagri": "62.11",
+    "id_kab_sap_cnt": "1609",
+    "label_kab_kota": "PULANG PISAU",
+    "label_kab_bps": "PULANG PISAU"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-PBG",
+    "label_kab_webspbu": "Kabupaten Purbalingga",
+    "id_kab_bps": "3303",
+    "id_kab_dagri": "33.03",
+    "id_kab_sap_cnt": "322",
+    "label_kab_kota": "PURBALINGGA",
+    "label_kab_bps": "PURBALINGGA"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-PWK",
+    "label_kab_webspbu": "Kabupaten Purwakarta",
+    "id_kab_bps": "3214",
+    "id_kab_dagri": "32.14",
+    "id_kab_sap_cnt": "222",
+    "label_kab_kota": "PURWAKARTA",
+    "label_kab_bps": "PURWAKARTA"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-PWR",
+    "label_kab_webspbu": "Kabupaten Purworejo",
+    "id_kab_bps": "3306",
+    "id_kab_dagri": "33.06",
+    "id_kab_sap_cnt": "328",
+    "label_kab_kota": "PURWOREJO",
+    "label_kab_bps": "PURWOREJO"
+  },
+  {
+    "id_kab_webspbu": "ID-PB-WAS",
+    "label_kab_webspbu": "Kabupaten Raja Ampat",
+    "id_kab_bps": "9108",
+    "id_kab_dagri": "92.05",
+    "id_kab_sap_cnt": "3307",
+    "label_kab_kota": "RAJA AMPAT",
+    "label_kab_bps": "RAJA AMPAT"
+  },
+  {
+    "id_kab_webspbu": "ID-BE-CRP",
+    "label_kab_webspbu": "Kabupaten Rejang Lebong",
+    "id_kab_bps": "1702",
+    "id_kab_dagri": "17.02",
+    "id_kab_sap_cnt": "1202",
+    "label_kab_kota": "REJANG LEBONG",
+    "label_kab_bps": "REJANG LEBONG"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-RBG",
+    "label_kab_webspbu": "Kabupaten Rembang",
+    "id_kab_bps": "3317",
+    "id_kab_dagri": "33.17",
+    "id_kab_sap_cnt": "309",
+    "label_kab_kota": "REMBANG",
+    "label_kab_bps": "REMBANG"
+  },
+  {
+    "id_kab_webspbu": "ID-RI-UJT",
+    "label_kab_webspbu": "Kabupaten Rokan Hilir",
+    "id_kab_bps": "1409",
+    "id_kab_dagri": "14.07",
+    "id_kab_sap_cnt": "910",
+    "label_kab_kota": "ROKAN HILIR",
+    "label_kab_bps": "ROKAN HILIR"
+  },
+  {
+    "id_kab_webspbu": "ID-RI-PRP",
+    "label_kab_webspbu": "Kabupaten Rokan Hulu",
+    "id_kab_bps": "1407",
+    "id_kab_dagri": "14.06",
+    "id_kab_sap_cnt": "909",
+    "label_kab_kota": "ROKAN HULU",
+    "label_kab_bps": "ROKAN HULU"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-BAA",
+    "label_kab_webspbu": "Kabupaten Rote Ndao",
+    "id_kab_bps": "5314",
+    "id_kab_dagri": "53.14",
+    "id_kab_sap_cnt": "2425",
+    "label_kab_kota": "ROTE NDAO",
+    "label_kab_bps": "ROTE NDAO"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-SBB",
+    "label_kab_webspbu": "Kabupaten Sabu Raijua",
+    "id_kab_bps": "5320",
+    "id_kab_dagri": "53.2",
+    "id_kab_sap_cnt": "2430",
+    "label_kab_kota": "SABU RAIJUA",
+    "label_kab_bps": "SABU RAIJUA"
+  },
+  {
+    "id_kab_webspbu": "ID-KB-SBS",
+    "label_kab_webspbu": "Kabupaten Sambas",
+    "id_kab_bps": "6101",
+    "id_kab_dagri": "61.01",
+    "id_kab_sap_cnt": "1505",
+    "label_kab_kota": "SAMBAS",
+    "label_kab_bps": "SAMBAS"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-PRR",
+    "label_kab_webspbu": "Kabupaten Samosir",
+    "id_kab_bps": "1217",
+    "id_kab_dagri": "12.17",
+    "id_kab_sap_cnt": "723",
+    "label_kab_kota": "SAMOSIR",
+    "label_kab_bps": "SAMOSIR"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-SPG",
+    "label_kab_webspbu": "Kabupaten Sampang",
+    "id_kab_bps": "3527",
+    "id_kab_dagri": "35.27",
+    "id_kab_sap_cnt": "434",
+    "label_kab_kota": "SAMPANG",
+    "label_kab_bps": "SAMPANG"
+  },
+  {
+    "id_kab_webspbu": "ID-KB-SAG",
+    "label_kab_webspbu": "Kabupaten Sanggau",
+    "id_kab_bps": "6105",
+    "id_kab_dagri": "61.03",
+    "id_kab_sap_cnt": "1511",
+    "label_kab_kota": "SANGGAU",
+    "label_kab_bps": "SANGGAU"
+  },
+  {
+    "id_kab_webspbu": "ID-PA-SMI",
+    "label_kab_webspbu": "Kabupaten Sarmi",
+    "id_kab_bps": "9419",
+    "id_kab_dagri": "91.1",
+    "id_kab_sap_cnt": "2610",
+    "label_kab_kota": "SARMI",
+    "label_kab_bps": "SARMI"
+  },
+  {
+    "id_kab_webspbu": "ID-JA-SRL",
+    "label_kab_webspbu": "Kabupaten Sarolangun",
+    "id_kab_bps": "1503",
+    "id_kab_dagri": "15.03",
+    "id_kab_sap_cnt": "1006",
+    "label_kab_kota": "SAROLANGUN",
+    "label_kab_bps": "SAROLANGUN"
+  },
+  {
+    "id_kab_webspbu": "ID-KB-SED",
+    "label_kab_webspbu": "Kabupaten Sekadau",
+    "id_kab_bps": "6109",
+    "id_kab_dagri": "61.09",
+    "id_kab_sap_cnt": "1510",
+    "label_kab_kota": "SEKADAU",
+    "label_kab_bps": "SEKADAU"
+  },
+  {
+    "id_kab_webspbu": "ID-BE-TAS",
+    "label_kab_webspbu": "Kabupaten Seluma",
+    "id_kab_bps": "1705",
+    "id_kab_dagri": "17.05",
+    "id_kab_sap_cnt": "1205",
+    "label_kab_kota": "SELUMA",
+    "label_kab_bps": "SELUMA"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-UNR",
+    "label_kab_webspbu": "Kabupaten Semarang",
+    "id_kab_bps": "3322",
+    "id_kab_dagri": "33.22",
+    "id_kab_sap_cnt": "302",
+    "label_kab_kota": "SEMARANG",
+    "label_kab_bps": "SEMARANG"
+  },
+  {
+    "id_kab_webspbu": "ID-MA-DRH",
+    "label_kab_webspbu": "Kabupaten Seram Bagian Barat",
+    "id_kab_bps": "8106",
+    "id_kab_dagri": "81.06",
+    "id_kab_sap_cnt": "2508",
+    "label_kab_kota": "SERAM BAGIAN BARAT",
+    "label_kab_bps": "SERAM BAGIAN BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-MA-DTH",
+    "label_kab_webspbu": "Kabupaten Seram Bagian Timur",
+    "id_kab_bps": "8107",
+    "id_kab_dagri": "81.05",
+    "id_kab_sap_cnt": "2503",
+    "label_kab_kota": "SERAM BAGIAN TIMUR",
+    "label_kab_bps": "SERAM BAGIAN TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-BT-SRN",
+    "label_kab_webspbu": "Kabupaten Serang",
+    "id_kab_bps": "3604",
+    "id_kab_dagri": "36.04",
+    "id_kab_sap_cnt": "2809",
+    "label_kab_kota": "SERANG",
+    "label_kab_bps": "SERANG"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-SRH",
+    "label_kab_webspbu": "Kabupaten Serdang Bedagai",
+    "id_kab_bps": "1218",
+    "id_kab_dagri": "12.18",
+    "id_kab_sap_cnt": "721",
+    "label_kab_kota": "SERDANG BEDAGAI",
+    "label_kab_bps": "SERDANG BEDAGAI"
+  },
+  {
+    "id_kab_webspbu": "ID-KT-KLP",
+    "label_kab_webspbu": "Kabupaten Seruyan",
+    "id_kab_bps": "6208",
+    "id_kab_dagri": "62.07",
+    "id_kab_sap_cnt": "1604",
+    "label_kab_kota": "SERUYAN",
+    "label_kab_bps": "SERUYAN"
+  },
+  {
+    "id_kab_webspbu": "ID-RI-SAK",
+    "label_kab_webspbu": "Kabupaten Siak",
+    "id_kab_bps": "1405",
+    "id_kab_dagri": "14.08",
+    "id_kab_sap_cnt": "911",
+    "label_kab_kota": "SIAK",
+    "label_kab_bps": "SIAK"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-SDR",
+    "label_kab_webspbu": "Kabupaten Sidenreng Rappang",
+    "id_kab_bps": "7314",
+    "id_kab_dagri": "73.14",
+    "id_kab_sap_cnt": "1819",
+    "label_kab_kota": "SIDENRENG RAPPANG",
+    "label_kab_bps": "SIDENRENG RAPPANG"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-SDA",
+    "label_kab_webspbu": "Kabupaten Sidoarjo",
+    "id_kab_bps": "3515",
+    "id_kab_dagri": "35.15",
+    "id_kab_sap_cnt": "412",
+    "label_kab_kota": "SIDOARJO",
+    "label_kab_bps": "SIDOARJO"
+  },
+  {
+    "id_kab_webspbu": "ID-ST-SGB",
+    "label_kab_webspbu": "Kabupaten Sigi",
+    "id_kab_bps": "7210",
+    "id_kab_dagri": "72.1",
+    "id_kab_sap_cnt": "2011",
+    "label_kab_kota": "SIGI",
+    "label_kab_bps": "SIGI"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-MRJ",
+    "label_kab_webspbu": "Kabupaten Sijunjung",
+    "id_kab_bps": "1304",
+    "id_kab_dagri": "13.03",
+    "id_kab_sap_cnt": "812",
+    "label_kab_kota": "SIJUNJUNG",
+    "label_kab_bps": "SIJUNJUNG"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-MME",
+    "label_kab_webspbu": "Kabupaten Sikka",
+    "id_kab_bps": "5310",
+    "id_kab_dagri": "53.07",
+    "id_kab_sap_cnt": "2416",
+    "label_kab_kota": "SIKKA",
+    "label_kab_bps": "SIKKA"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-SLG",
+    "label_kab_webspbu": "Kabupaten Simalungun",
+    "id_kab_bps": "1209",
+    "id_kab_dagri": "12.08",
+    "id_kab_sap_cnt": "715",
+    "label_kab_kota": "SIMALUNGUN",
+    "label_kab_bps": "SIMALUNGUN"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-SNB",
+    "label_kab_webspbu": "Kabupaten Simeulue",
+    "id_kab_bps": "1101",
+    "id_kab_dagri": "11.09",
+    "id_kab_sap_cnt": "612",
+    "label_kab_kota": "SIMEULUE",
+    "label_kab_bps": "SIMEULUE"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-SNJ",
+    "label_kab_webspbu": "Kabupaten Sinjai",
+    "id_kab_bps": "7307",
+    "id_kab_dagri": "73.07",
+    "id_kab_sap_cnt": "1820",
+    "label_kab_kota": "SINJAI",
+    "label_kab_bps": "SINJAI"
+  },
+  {
+    "id_kab_webspbu": "ID-KB-STG",
+    "label_kab_webspbu": "Kabupaten Sintang",
+    "id_kab_bps": "6107",
+    "id_kab_dagri": "61.05",
+    "id_kab_sap_cnt": "1509",
+    "label_kab_kota": "SINTANG",
+    "label_kab_bps": "SINTANG"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-SIT",
+    "label_kab_webspbu": "Kabupaten Situbondo",
+    "id_kab_bps": "3512",
+    "id_kab_dagri": "35.12",
+    "id_kab_sap_cnt": "429",
+    "label_kab_kota": "SITUBONDO",
+    "label_kab_bps": "SITUBONDO"
+  },
+  {
+    "id_kab_webspbu": "ID-YO-SMN",
+    "label_kab_webspbu": "Kabupaten Sleman",
+    "id_kab_bps": "3404",
+    "id_kab_dagri": "34.04",
+    "id_kab_sap_cnt": "502",
+    "label_kab_kota": "SLEMAN",
+    "label_kab_bps": "SLEMAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-ARS",
+    "label_kab_webspbu": "Kabupaten Solok",
+    "id_kab_bps": "1303",
+    "id_kab_dagri": "13.02",
+    "id_kab_sap_cnt": "813",
+    "label_kab_kota": "SOLOK",
+    "label_kab_bps": "SOLOK"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-PDA",
+    "label_kab_webspbu": "Kabupaten Solok Selatan",
+    "id_kab_bps": "1310",
+    "id_kab_dagri": "13.11",
+    "id_kab_sap_cnt": "819",
+    "label_kab_kota": "SOLOK SELATAN",
+    "label_kab_bps": "SOLOK SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-WNS",
+    "label_kab_webspbu": "Kabupaten Soppeng",
+    "id_kab_bps": "7312",
+    "id_kab_dagri": "73.12",
+    "id_kab_sap_cnt": "1821",
+    "label_kab_kota": "SOPPENG",
+    "label_kab_bps": "SOPPENG"
+  },
+  {
+    "id_kab_webspbu": "ID-PB-AMS",
+    "label_kab_webspbu": "Kabupaten Sorong",
+    "id_kab_bps": "9107",
+    "id_kab_dagri": "92.01",
+    "id_kab_sap_cnt": "3302",
+    "label_kab_kota": "SORONG",
+    "label_kab_bps": "SORONG"
+  },
+  {
+    "id_kab_webspbu": "ID-PB-TMB",
+    "label_kab_webspbu": "Kabupaten Sorong Selatan",
+    "id_kab_bps": "9106",
+    "id_kab_dagri": "92.04",
+    "id_kab_sap_cnt": "3306",
+    "label_kab_kota": "SORONG SELATAN",
+    "label_kab_bps": "SORONG SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-SGN",
+    "label_kab_webspbu": "Kabupaten Sragen",
+    "id_kab_bps": "3314",
+    "id_kab_dagri": "33.14",
+    "id_kab_sap_cnt": "331",
+    "label_kab_kota": "SRAGEN",
+    "label_kab_bps": "SRAGEN"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-SNG",
+    "label_kab_webspbu": "Kabupaten Subang",
+    "id_kab_bps": "3213",
+    "id_kab_dagri": "32.13",
+    "id_kab_sap_cnt": "232",
+    "label_kab_kota": "SUBANG",
+    "label_kab_bps": "SUBANG"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-SBM",
+    "label_kab_webspbu": "Kabupaten Sukabumi",
+    "id_kab_bps": "3202",
+    "id_kab_dagri": "32.02",
+    "id_kab_sap_cnt": "217",
+    "label_kab_kota": "SUKABUMI",
+    "label_kab_bps": "SUKABUMI"
+  },
+  {
+    "id_kab_webspbu": "ID-KT-SKR",
+    "label_kab_webspbu": "Kabupaten Sukamara",
+    "id_kab_bps": "6206",
+    "id_kab_dagri": "62.08",
+    "id_kab_sap_cnt": "1607",
+    "label_kab_kota": "SUKAMARA",
+    "label_kab_bps": "SUKAMARA"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-SKH",
+    "label_kab_webspbu": "Kabupaten Sukoharjo",
+    "id_kab_bps": "3311",
+    "id_kab_dagri": "33.11",
+    "id_kab_sap_cnt": "334",
+    "label_kab_kota": "SUKOHARJO",
+    "label_kab_bps": "SUKOHARJO"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-WKB",
+    "label_kab_webspbu": "Kabupaten Sumba Barat",
+    "id_kab_bps": "5301",
+    "id_kab_dagri": "53.12",
+    "id_kab_sap_cnt": "2422",
+    "label_kab_kota": "SUMBA BARAT",
+    "label_kab_bps": "SUMBA BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-TAM",
+    "label_kab_webspbu": "Kabupaten Sumba Barat Daya",
+    "id_kab_bps": "5317",
+    "id_kab_dagri": "53.18",
+    "id_kab_sap_cnt": "2427",
+    "label_kab_kota": "SUMBA BARAT DAYA",
+    "label_kab_bps": "SUMBA BARAT DAYA"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-WBL",
+    "label_kab_webspbu": "Kabupaten Sumba Tengah",
+    "id_kab_bps": "5316",
+    "id_kab_dagri": "53.17",
+    "id_kab_sap_cnt": "2428",
+    "label_kab_kota": "SUMBA TENGAH",
+    "label_kab_bps": "SUMBA TENGAH"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-WGP",
+    "label_kab_webspbu": "Kabupaten Sumba Timur",
+    "id_kab_bps": "5302",
+    "id_kab_dagri": "53.11",
+    "id_kab_sap_cnt": "2421",
+    "label_kab_kota": "SUMBA TIMUR",
+    "label_kab_bps": "SUMBA TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-NB-SBW",
+    "label_kab_webspbu": "Kabupaten Sumbawa",
+    "id_kab_bps": "5204",
+    "id_kab_dagri": "52.04",
+    "id_kab_sap_cnt": "2316",
+    "label_kab_kota": "SUMBAWA",
+    "label_kab_bps": "SUMBAWA"
+  },
+  {
+    "id_kab_webspbu": "ID-NB-TLW",
+    "label_kab_webspbu": "Kabupaten Sumbawa Barat",
+    "id_kab_bps": "5207",
+    "id_kab_dagri": "52.07",
+    "id_kab_sap_cnt": "2317",
+    "label_kab_kota": "SUMBAWA BARAT",
+    "label_kab_bps": "SUMBAWA BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-SMD",
+    "label_kab_webspbu": "Kabupaten Sumedang",
+    "id_kab_bps": "3211",
+    "id_kab_dagri": "32.11",
+    "id_kab_sap_cnt": "225",
+    "label_kab_kota": "SUMEDANG",
+    "label_kab_bps": "SUMEDANG"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-SMP",
+    "label_kab_webspbu": "Kabupaten Sumenep",
+    "id_kab_bps": "3529",
+    "id_kab_dagri": "35.29",
+    "id_kab_sap_cnt": "436",
+    "label_kab_kota": "SUMENEP",
+    "label_kab_bps": "SUMENEP"
+  },
+  {
+    "id_kab_webspbu": "ID-KS-TJG",
+    "label_kab_webspbu": "Kabupaten Tabalong",
+    "id_kab_bps": "6309",
+    "id_kab_dagri": "63.09",
+    "id_kab_sap_cnt": "1409",
+    "label_kab_kota": "TABALONG",
+    "label_kab_bps": "TABALONG"
+  },
+  {
+    "id_kab_webspbu": "ID-BA-TAB",
+    "label_kab_webspbu": "Kabupaten Tabanan",
+    "id_kab_bps": "5102",
+    "id_kab_dagri": "51.02",
+    "id_kab_sap_cnt": "2217",
+    "label_kab_kota": "TABANAN",
+    "label_kab_bps": "TABANAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-TKA",
+    "label_kab_webspbu": "Kabupaten Takalar",
+    "id_kab_bps": "7305",
+    "id_kab_dagri": "73.05",
+    "id_kab_sap_cnt": "1822",
+    "label_kab_kota": "TAKALAR",
+    "label_kab_bps": "TAKALAR"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-MAK",
+    "label_kab_webspbu": "Kabupaten Tana Toraja",
+    "id_kab_bps": "7318",
+    "id_kab_dagri": "73.18",
+    "id_kab_sap_cnt": "1823",
+    "label_kab_kota": "TANA TORAJA",
+    "label_kab_bps": "TANA TORAJA"
+  },
+  {
+    "id_kab_webspbu": "ID-KS-BLN",
+    "label_kab_webspbu": "Kabupaten Tanah Bumbu",
+    "id_kab_bps": "6310",
+    "id_kab_dagri": "63.1",
+    "id_kab_sap_cnt": "1406",
+    "label_kab_kota": "TANAH BUMBU",
+    "label_kab_bps": "TANAH BUMBU"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-BSK",
+    "label_kab_webspbu": "Kabupaten Tanah Datar",
+    "id_kab_bps": "1305",
+    "id_kab_dagri": "13.04",
+    "id_kab_sap_cnt": "814",
+    "label_kab_kota": "TANAH DATAR",
+    "label_kab_bps": "TANAH DATAR"
+  },
+  {
+    "id_kab_webspbu": "ID-KS-PLI",
+    "label_kab_webspbu": "Kabupaten Tanah Laut",
+    "id_kab_bps": "6301",
+    "id_kab_dagri": "63.01",
+    "id_kab_sap_cnt": "1404",
+    "label_kab_kota": "TANAH LAUT",
+    "label_kab_bps": "TANAH LAUT"
+  },
+  {
+    "id_kab_webspbu": "ID-BT-TGR",
+    "label_kab_webspbu": "Kabupaten Tangerang",
+    "id_kab_bps": "3603",
+    "id_kab_dagri": "36.03",
+    "id_kab_sap_cnt": "2808",
+    "label_kab_kota": "TANGERANG",
+    "label_kab_bps": "TANGERANG"
+  },
+  {
+    "id_kab_webspbu": "ID-LA-KOT",
+    "label_kab_webspbu": "Kabupaten Tanggamus",
+    "id_kab_bps": "1802",
+    "id_kab_dagri": "18.06",
+    "id_kab_sap_cnt": "1303",
+    "label_kab_kota": "TANGGAMUS",
+    "label_kab_bps": "TANGGAMUS"
+  },
+  {
+    "id_kab_webspbu": "ID-JA-KLT",
+    "label_kab_webspbu": "Kabupaten Tanjung Jabung Barat",
+    "id_kab_bps": "1507",
+    "id_kab_dagri": "15.06",
+    "id_kab_sap_cnt": "1008",
+    "label_kab_kota": "TANJUNG JABUNG BARAT",
+    "label_kab_bps": "TANJUNG JABUNG BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-JA-MSK",
+    "label_kab_webspbu": "Kabupaten Tanjung Jabung Timur",
+    "id_kab_bps": "1506",
+    "id_kab_dagri": "15.07",
+    "id_kab_sap_cnt": "1007",
+    "label_kab_kota": "TANJUNG JABUNG TIMUR",
+    "label_kab_bps": "TANJUNG JABUNG TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-TPS",
+    "label_kab_webspbu": "Kabupaten Tapanuli Selatan",
+    "id_kab_bps": "1203",
+    "id_kab_dagri": "12.03",
+    "id_kab_sap_cnt": "717",
+    "label_kab_kota": "TAPANULI SELATAN",
+    "label_kab_bps": "TAPANULI SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-TTH",
+    "label_kab_webspbu": "Kabupaten Tapanuli Tengah",
+    "id_kab_bps": "1204",
+    "id_kab_dagri": "12.01",
+    "id_kab_sap_cnt": "716",
+    "label_kab_kota": "TAPANULI TENGAH",
+    "label_kab_bps": "TAPANULI TENGAH"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-TRT",
+    "label_kab_webspbu": "Kabupaten Tapanuli Utara",
+    "id_kab_bps": "1205",
+    "id_kab_dagri": "12.02",
+    "id_kab_sap_cnt": "718",
+    "label_kab_kota": "TAPANULI UTARA",
+    "label_kab_bps": "TAPANULI UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-KS-RTA",
+    "label_kab_webspbu": "Kabupaten Tapin",
+    "id_kab_bps": "6305",
+    "id_kab_dagri": "63.05",
+    "id_kab_sap_cnt": "1408",
+    "label_kab_kota": "TAPIN",
+    "label_kab_bps": "TAPIN"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-SPA",
+    "label_kab_webspbu": "Kabupaten Tasikmalaya",
+    "id_kab_bps": "3206",
+    "id_kab_dagri": "32.06",
+    "id_kab_sap_cnt": "228",
+    "label_kab_kota": "TASIKMALAYA",
+    "label_kab_bps": "TASIKMALAYA"
+  },
+  {
+    "id_kab_webspbu": "ID-JA-MRT",
+    "label_kab_webspbu": "Kabupaten Tebo",
+    "id_kab_bps": "1508",
+    "id_kab_dagri": "15.09",
+    "id_kab_sap_cnt": "1005",
+    "label_kab_kota": "TEBO",
+    "label_kab_bps": "TEBO"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-SLW",
+    "label_kab_webspbu": "Kabupaten Tegal",
+    "id_kab_bps": "3328",
+    "id_kab_dagri": "33.28",
+    "id_kab_sap_cnt": "313",
+    "label_kab_kota": "TEGAL",
+    "label_kab_bps": "TEGAL"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-TGL",
+    "label_kab_webspbu": "Kabupaten Tegal",
+    "id_kab_bps": "3328",
+    "id_kab_dagri": "33.28",
+    "id_kab_sap_cnt": "313",
+    "label_kab_kota": "TEGAL",
+    "label_kab_bps": "TEGAL"
+  },
+  {
+    "id_kab_webspbu": "ID-PB-BTI",
+    "label_kab_webspbu": "Kabupaten Teluk Bintuni",
+    "id_kab_bps": "9104",
+    "id_kab_dagri": "92.06",
+    "id_kab_sap_cnt": "3308",
+    "label_kab_kota": "TELUK BINTUNI",
+    "label_kab_bps": "TELUK BINTUNI"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-TMG",
+    "label_kab_webspbu": "Kabupaten Temanggung",
+    "id_kab_bps": "3323",
+    "id_kab_dagri": "33.23",
+    "id_kab_sap_cnt": "327",
+    "label_kab_kota": "TEMANGGUNG",
+    "label_kab_bps": "TEMANGGUNG"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-SOE",
+    "label_kab_webspbu": "Kabupaten Timor Tengah Selatan",
+    "id_kab_bps": "5304",
+    "id_kab_dagri": "53.02",
+    "id_kab_sap_cnt": "2412",
+    "label_kab_kota": "TIMOR TENGAH SELATAN",
+    "label_kab_bps": "TIMOR TENGAH SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-KFM",
+    "label_kab_webspbu": "Kabupaten Timor Tengah Utara",
+    "id_kab_bps": "5305",
+    "id_kab_dagri": "53.03",
+    "id_kab_sap_cnt": "2413",
+    "label_kab_kota": "TIMOR TENGAH UTARA",
+    "label_kab_bps": "TIMOR TENGAH UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-BLG",
+    "label_kab_webspbu": "Kabupaten Toba Samosir",
+    "id_kab_bps": "1206",
+    "id_kab_dagri": "12.12",
+    "id_kab_sap_cnt": "719",
+    "label_kab_kota": "TOBA SAMOSIR",
+    "label_kab_bps": "TOBA SAMOSIR"
+  },
+  {
+    "id_kab_webspbu": "ID-ST-APN",
+    "label_kab_webspbu": "Kabupaten Tojo Una Una",
+    "id_kab_bps": "7209",
+    "id_kab_dagri": "72.09",
+    "id_kab_sap_cnt": "2010",
+    "label_kab_kota": "TOJO UNA-UNA",
+    "label_kab_bps": "TOJO UNA-UNA"
+  },
+  {
+    "id_kab_webspbu": "ID-ST-TLI",
+    "label_kab_webspbu": "Kabupaten Toli Toli",
+    "id_kab_bps": "7206",
+    "id_kab_dagri": "72.04",
+    "id_kab_sap_cnt": "2003",
+    "label_kab_kota": "TOLITOLI",
+    "label_kab_bps": "TOLI-TOLI"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-RTP",
+    "label_kab_webspbu": "Kabupaten Toraja Utara",
+    "id_kab_bps": "7326",
+    "id_kab_dagri": "73.26",
+    "id_kab_sap_cnt": "1812",
+    "label_kab_kota": "TORAJA UTARA",
+    "label_kab_bps": "TORAJA UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-TRK",
+    "label_kab_webspbu": "Kabupaten Trenggalek",
+    "id_kab_bps": "3503",
+    "id_kab_dagri": "35.03",
+    "id_kab_sap_cnt": "425",
+    "label_kab_kota": "TRENGGALEK",
+    "label_kab_bps": "TRENGGALEK"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-TBN",
+    "label_kab_webspbu": "Kabupaten Tuban",
+    "id_kab_bps": "3523",
+    "id_kab_dagri": "35.23",
+    "id_kab_sap_cnt": "416",
+    "label_kab_kota": "TUBAN",
+    "label_kab_bps": "TUBAN"
+  },
+  {
+    "id_kab_webspbu": "ID-LA-MGL",
+    "label_kab_webspbu": "Kabupaten Tulang Bawang",
+    "id_kab_bps": "1808",
+    "id_kab_dagri": "18.05",
+    "id_kab_sap_cnt": "1304",
+    "label_kab_kota": "TULANG BAWANG",
+    "label_kab_bps": "TULANGBAWANG"
+  },
+  {
+    "id_kab_webspbu": "ID-LA-TWG",
+    "label_kab_webspbu": "Kabupaten Tulang Bawang Barat",
+    "id_kab_bps": "1812",
+    "id_kab_dagri": "18.12",
+    "id_kab_sap_cnt": "1313",
+    "label_kab_kota": "TULANG BAWANG BARAT",
+    "label_kab_bps": "TULANG BAWANG BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-TLG",
+    "label_kab_webspbu": "Kabupaten Tulungagung",
+    "id_kab_bps": "3504",
+    "id_kab_dagri": "35.04",
+    "id_kab_sap_cnt": "424",
+    "label_kab_kota": "TULUNGAGUNG",
+    "label_kab_bps": "TULUNGAGUNG"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-SKG",
+    "label_kab_webspbu": "Kabupaten Wajo",
+    "id_kab_bps": "7313",
+    "id_kab_dagri": "73.13",
+    "id_kab_sap_cnt": "1824",
+    "label_kab_kota": "WAJO",
+    "label_kab_bps": "WAJO"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-WGW",
+    "label_kab_webspbu": "Kabupaten Wakatobi",
+    "id_kab_bps": "7407",
+    "id_kab_dagri": "74.07",
+    "id_kab_sap_cnt": "1910",
+    "label_kab_kota": "WAKATOBI",
+    "label_kab_bps": "WAKATOBI"
+  },
+  {
+    "id_kab_webspbu": "ID-LA-BBU",
+    "label_kab_webspbu": "Kabupaten Way Kanan",
+    "id_kab_bps": "1807",
+    "id_kab_dagri": "18.08",
+    "id_kab_sap_cnt": "1305",
+    "label_kab_kota": "WAY KANAN",
+    "label_kab_bps": "WAY KANAN"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-WNG",
+    "label_kab_webspbu": "Kabupaten Wonogiri",
+    "id_kab_bps": "3312",
+    "id_kab_dagri": "33.12",
+    "id_kab_sap_cnt": "335",
+    "label_kab_kota": "WONOGIRI",
+    "label_kab_bps": "WONOGIRI"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-WSB",
+    "label_kab_webspbu": "Kabupaten Wonosobo",
+    "id_kab_bps": "3307",
+    "id_kab_dagri": "33.07",
+    "id_kab_sap_cnt": "324",
+    "label_kab_kota": "WONOSOBO",
+    "label_kab_bps": "WONOSOBO"
+  },
+  {
+    "id_kab_webspbu": "ID-MA-AMB",
+    "label_kab_webspbu": "Kota Ambon",
+    "id_kab_bps": "8171",
+    "id_kab_dagri": "81.71",
+    "id_kab_sap_cnt": "2501",
+    "label_kab_kota": "KOTA AMBON",
+    "label_kab_bps": "AMBON"
+  },
+  {
+    "id_kab_webspbu": "ID-KI-BPP",
+    "label_kab_webspbu": "Kota Balikpapan",
+    "id_kab_bps": "6471",
+    "id_kab_dagri": "64.71",
+    "id_kab_sap_cnt": "1701",
+    "label_kab_kota": "KOTA BALIKPAPAN",
+    "label_kab_bps": "BALIKPAPAN"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-BNA",
+    "label_kab_webspbu": "Kota Banda Aceh",
+    "id_kab_bps": "1171",
+    "id_kab_dagri": "11.71",
+    "id_kab_sap_cnt": "601",
+    "label_kab_kota": "KOTA BANDA ACEH",
+    "label_kab_bps": "BANDA ACEH"
+  },
+  {
+    "id_kab_webspbu": "ID-LA-BDL",
+    "label_kab_webspbu": "Kota Bandar Lampung",
+    "id_kab_bps": "1871",
+    "id_kab_dagri": "18.71",
+    "id_kab_sap_cnt": "1301",
+    "label_kab_kota": "KOTA BANDAR LAMPUNG",
+    "label_kab_bps": "BANDAR LAMPUNG"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-BDG",
+    "label_kab_webspbu": "Kota Bandung",
+    "id_kab_bps": "3273",
+    "id_kab_dagri": "32.73",
+    "id_kab_sap_cnt": "223",
+    "label_kab_kota": "KOTA BANDUNG",
+    "label_kab_bps": "BANDUNG"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-BJR",
+    "label_kab_webspbu": "Kota Banjar",
+    "id_kab_bps": "3279",
+    "id_kab_dagri": "32.79",
+    "id_kab_sap_cnt": "238",
+    "label_kab_kota": "KOTA BANJAR",
+    "label_kab_bps": "BANJAR"
+  },
+  {
+    "id_kab_webspbu": "ID-KS-BJB",
+    "label_kab_webspbu": "Kota Banjarbaru",
+    "id_kab_bps": "6372",
+    "id_kab_dagri": "63.72",
+    "id_kab_sap_cnt": "1403",
+    "label_kab_kota": "KOTA BANJARBARU",
+    "label_kab_bps": "BANJAR BARU"
+  },
+  {
+    "id_kab_webspbu": "ID-KS-BJM",
+    "label_kab_webspbu": "Kota Banjarmasin",
+    "id_kab_bps": "6371",
+    "id_kab_dagri": "63.71",
+    "id_kab_sap_cnt": "1401",
+    "label_kab_kota": "KOTA BANJARMASIN",
+    "label_kab_bps": "BANJARMASIN"
+  },
+  {
+    "id_kab_webspbu": "ID-KR-BTM",
+    "label_kab_webspbu": "Kota Batam",
+    "id_kab_bps": "2171",
+    "id_kab_dagri": "21.71",
+    "id_kab_sap_cnt": "3101",
+    "label_kab_kota": "KOTA BATAM",
+    "label_kab_bps": "BATAM"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-BTU",
+    "label_kab_webspbu": "Kota Batu",
+    "id_kab_bps": "3579",
+    "id_kab_dagri": "35.79",
+    "id_kab_sap_cnt": "452",
+    "label_kab_kota": "KOTA BATU",
+    "label_kab_bps": "BATU"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-BAU",
+    "label_kab_webspbu": "Kota Bau Bau",
+    "id_kab_bps": "7472",
+    "id_kab_dagri": "74.72",
+    "id_kab_sap_cnt": "1906",
+    "label_kab_kota": "KOTA BAU BAU",
+    "label_kab_bps": "BAUBAU"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-BKS",
+    "label_kab_webspbu": "Kota Bekasi",
+    "id_kab_bps": "3275",
+    "id_kab_dagri": "32.75",
+    "id_kab_sap_cnt": "219",
+    "label_kab_kota": "KOTA BEKASI",
+    "label_kab_bps": "BEKASI"
+  },
+  {
+    "id_kab_webspbu": "ID-BE-BGL",
+    "label_kab_webspbu": "Kota Bengkulu",
+    "id_kab_bps": "1771",
+    "id_kab_dagri": "17.71",
+    "id_kab_sap_cnt": "1201",
+    "label_kab_kota": "KOTA BENGKULU",
+    "label_kab_bps": "BENGKULU"
+  },
+  {
+    "id_kab_webspbu": "ID-NB-BIM",
+    "label_kab_webspbu": "Kota Bima",
+    "id_kab_bps": "5272",
+    "id_kab_dagri": "52.72",
+    "id_kab_sap_cnt": "2318",
+    "label_kab_kota": "KOTA BIMA",
+    "label_kab_bps": "BIMA"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-BNJ",
+    "label_kab_webspbu": "Kota Binjai",
+    "id_kab_bps": "1276",
+    "id_kab_dagri": "12.75",
+    "id_kab_sap_cnt": "702",
+    "label_kab_kota": "KOTA BINJAI",
+    "label_kab_bps": "BINJAI"
+  },
+  {
+    "id_kab_webspbu": "ID-SA-BIT",
+    "label_kab_webspbu": "Kota Bitung",
+    "id_kab_bps": "7172",
+    "id_kab_dagri": "71.72",
+    "id_kab_sap_cnt": "2102",
+    "label_kab_kota": "KOTA BITUNG",
+    "label_kab_bps": "BITUNG"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-BLT",
+    "label_kab_webspbu": "Kota Blitar",
+    "id_kab_bps": "3572",
+    "id_kab_dagri": "35.72",
+    "id_kab_sap_cnt": "460",
+    "label_kab_kota": "KOTA BLITAR",
+    "label_kab_bps": "BLITAR"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-BGR",
+    "label_kab_webspbu": "Kota Bogor",
+    "id_kab_bps": "3271",
+    "id_kab_dagri": "32.71",
+    "id_kab_sap_cnt": "214",
+    "label_kab_kota": "KOTA BOGOR",
+    "label_kab_bps": "BOGOR"
+  },
+  {
+    "id_kab_webspbu": "ID-KI-BON",
+    "label_kab_webspbu": "Kota Bontang",
+    "id_kab_bps": "6474",
+    "id_kab_dagri": "64.74",
+    "id_kab_sap_cnt": "1710",
+    "label_kab_kota": "KOTA BONTANG",
+    "label_kab_bps": "BONTANG"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-BKT",
+    "label_kab_webspbu": "Kota Bukittinggi",
+    "id_kab_bps": "1375",
+    "id_kab_dagri": "13.75",
+    "id_kab_sap_cnt": "802",
+    "label_kab_kota": "KOTA BUKITTINGGI",
+    "label_kab_bps": "BUKITTINGGI"
+  },
+  {
+    "id_kab_webspbu": "ID-BT-CLG",
+    "label_kab_webspbu": "Kota Cilegon",
+    "id_kab_bps": "3672",
+    "id_kab_dagri": "36.72",
+    "id_kab_sap_cnt": "2810",
+    "label_kab_kota": "KOTA CILEGON",
+    "label_kab_bps": "CILEGON"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-CMH",
+    "label_kab_webspbu": "Kota Cimahi",
+    "id_kab_bps": "3277",
+    "id_kab_dagri": "32.77",
+    "id_kab_sap_cnt": "237",
+    "label_kab_kota": "KOTA CIMAHI",
+    "label_kab_bps": "CIMAHI"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-CBN",
+    "label_kab_webspbu": "Kota Cirebon",
+    "id_kab_bps": "3274",
+    "id_kab_dagri": "32.74",
+    "id_kab_sap_cnt": "230",
+    "label_kab_kota": "KOTA CIREBON",
+    "label_kab_bps": "CIREBON"
+  },
+  {
+    "id_kab_webspbu": "ID-BA-DPR",
+    "label_kab_webspbu": "Kota Denpasar",
+    "id_kab_bps": "5171",
+    "id_kab_dagri": "51.71",
+    "id_kab_sap_cnt": "2210",
+    "label_kab_kota": "KOTA DENPASAR",
+    "label_kab_bps": "DENPASAR"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-DPK",
+    "label_kab_webspbu": "Kota Depok",
+    "id_kab_bps": "3276",
+    "id_kab_dagri": "32.76",
+    "id_kab_sap_cnt": "213",
+    "label_kab_kota": "KOTA DEPOK",
+    "label_kab_bps": "DEPOK"
+  },
+  {
+    "id_kab_webspbu": "ID-RI-DUM",
+    "label_kab_webspbu": "Kota Dumai",
+    "id_kab_bps": "1473",
+    "id_kab_dagri": "14.72",
+    "id_kab_sap_cnt": "902",
+    "label_kab_kota": "KOTA DUMAI",
+    "label_kab_bps": "DUMAI"
+  },
+  {
+    "id_kab_webspbu": "ID-GO-GTO",
+    "label_kab_webspbu": "Kota Gorontalo",
+    "id_kab_bps": "7571",
+    "id_kab_dagri": "75.71",
+    "id_kab_sap_cnt": "2901",
+    "label_kab_kota": "KOTA GORONTALO",
+    "label_kab_bps": "GORONTALO"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-GST",
+    "label_kab_webspbu": "Kota Gunungsitoli",
+    "id_kab_bps": "1278",
+    "id_kab_dagri": "12.78",
+    "id_kab_sap_cnt": "733",
+    "label_kab_kota": "KOTA GUNUNGSITOLI",
+    "label_kab_bps": "GUNUNGSITOLI"
+  },
+  {
+    "id_kab_webspbu": "ID-JK-GGP",
+    "label_kab_webspbu": "Kota Jakarta Barat",
+    "id_kab_bps": "3174",
+    "id_kab_dagri": "31.73",
+    "id_kab_sap_cnt": "102",
+    "label_kab_kota": "JAKARTA BARAT",
+    "label_kab_bps": "JAKARTA BARAT"
+  },
+  {
+    "id_kab_webspbu": "ID-JK-TNA",
+    "label_kab_webspbu": "Kota Jakarta Pusat",
+    "id_kab_bps": "3173",
+    "id_kab_dagri": "31.71",
+    "id_kab_sap_cnt": "101",
+    "label_kab_kota": "JAKARTA PUSAT",
+    "label_kab_bps": "JAKARTA PUSAT"
+  },
+  {
+    "id_kab_webspbu": "ID-JK-KYB",
+    "label_kab_webspbu": "Kota Jakarta Selatan",
+    "id_kab_bps": "3171",
+    "id_kab_dagri": "31.74",
+    "id_kab_sap_cnt": "103",
+    "label_kab_kota": "JAKARTA SELATAN",
+    "label_kab_bps": "JAKARTA SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-JK-CKG",
+    "label_kab_webspbu": "Kota Jakarta Timur",
+    "id_kab_bps": "3172",
+    "id_kab_dagri": "31.75",
+    "id_kab_sap_cnt": "104",
+    "label_kab_kota": "JAKARTA TIMUR",
+    "label_kab_bps": "JAKARTA TIMUR"
+  },
+  {
+    "id_kab_webspbu": "ID-JK-TJP",
+    "label_kab_webspbu": "Kota Jakarta Utara",
+    "id_kab_bps": "3175",
+    "id_kab_dagri": "31.72",
+    "id_kab_sap_cnt": "105",
+    "label_kab_kota": "JAKARTA UTARA",
+    "label_kab_bps": "JAKARTA UTARA"
+  },
+  {
+    "id_kab_webspbu": "ID-JA-JMB",
+    "label_kab_webspbu": "Kota Jambi",
+    "id_kab_bps": "1571",
+    "id_kab_dagri": "15.71",
+    "id_kab_sap_cnt": "1001",
+    "label_kab_kota": "KOTA JAMBI",
+    "label_kab_bps": "JAMBI"
+  },
+  {
+    "id_kab_webspbu": "ID-PA-JAP",
+    "label_kab_webspbu": "Kota Jayapura",
+    "id_kab_bps": "9471",
+    "id_kab_dagri": "91.71",
+    "id_kab_sap_cnt": "2601",
+    "label_kab_kota": "KOTA JAYAPURA",
+    "label_kab_bps": "JAYAPURA"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-KDR",
+    "label_kab_webspbu": "Kota Kediri",
+    "id_kab_bps": "3571",
+    "id_kab_dagri": "35.71",
+    "id_kab_sap_cnt": "440",
+    "label_kab_kota": "KOTA KEDIRI",
+    "label_kab_bps": "KEDIRI"
+  },
+  {
+    "id_kab_webspbu": "ID-SG-KDI",
+    "label_kab_webspbu": "Kota Kendari",
+    "id_kab_bps": "7471",
+    "id_kab_dagri": "74.71",
+    "id_kab_sap_cnt": "1901",
+    "label_kab_kota": "KOTA KENDARI",
+    "label_kab_bps": "KENDARI"
+  },
+  {
+    "id_kab_webspbu": "ID-SA-KTG",
+    "label_kab_webspbu": "Kota Kotamobagu",
+    "id_kab_bps": "7174",
+    "id_kab_dagri": "71.74",
+    "id_kab_sap_cnt": "2110",
+    "label_kab_kota": "KOTA KOTAMOBAGU",
+    "label_kab_bps": "KOTAMOBAGU"
+  },
+  {
+    "id_kab_webspbu": "ID-NT-KPG",
+    "label_kab_webspbu": "Kota Kupang",
+    "id_kab_bps": "5371",
+    "id_kab_dagri": "53.71",
+    "id_kab_sap_cnt": "2410",
+    "label_kab_kota": "KOTA KUPANG",
+    "label_kab_bps": "KUPANG"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-LGS",
+    "label_kab_webspbu": "Kota Langsa",
+    "id_kab_bps": "1173",
+    "id_kab_dagri": "11.74",
+    "id_kab_sap_cnt": "615",
+    "label_kab_kota": "KOTA LANGSA",
+    "label_kab_bps": "LANGSA"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-LSM",
+    "label_kab_webspbu": "Kota Lhokseumawe",
+    "id_kab_bps": "1174",
+    "id_kab_dagri": "11.73",
+    "id_kab_sap_cnt": "614",
+    "label_kab_kota": "KOTA LHOKSEUMAWE",
+    "label_kab_bps": "LHOKSEUMAWE"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-LLG",
+    "label_kab_webspbu": "Kota Lubuklinggau",
+    "id_kab_bps": "1674",
+    "id_kab_dagri": "16.73",
+    "id_kab_sap_cnt": "1111",
+    "label_kab_kota": "KOTA LUBUKLINGGAU",
+    "label_kab_bps": "LUBUKLINGGAU"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-MAD",
+    "label_kab_webspbu": "Kota Madiun",
+    "id_kab_bps": "3577",
+    "id_kab_dagri": "35.77",
+    "id_kab_sap_cnt": "430",
+    "label_kab_kota": "KOTA MADIUN",
+    "label_kab_bps": "MADIUN"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-MGG",
+    "label_kab_webspbu": "Kota Magelang",
+    "id_kab_bps": "3371",
+    "id_kab_dagri": "33.71",
+    "id_kab_sap_cnt": "325",
+    "label_kab_kota": "KOTA MAGELANG",
+    "label_kab_bps": "MAGELANG"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-MKS",
+    "label_kab_webspbu": "Kota Makassar",
+    "id_kab_bps": "7371",
+    "id_kab_dagri": "73.71",
+    "id_kab_sap_cnt": "1801",
+    "label_kab_kota": "KOTA MAKASSAR",
+    "label_kab_bps": "MAKASSAR"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-MLG",
+    "label_kab_webspbu": "Kota Malang",
+    "id_kab_bps": "3573",
+    "id_kab_dagri": "35.73",
+    "id_kab_sap_cnt": "450",
+    "label_kab_kota": "KOTA MALANG",
+    "label_kab_bps": "MALANG"
+  },
+  {
+    "id_kab_webspbu": "ID-SA-MND",
+    "label_kab_webspbu": "Kota Manado",
+    "id_kab_bps": "7171",
+    "id_kab_dagri": "71.71",
+    "id_kab_sap_cnt": "2101",
+    "label_kab_kota": "KOTA MANADO",
+    "label_kab_bps": "MANADO"
+  },
+  {
+    "id_kab_webspbu": "ID-NB-MTR",
+    "label_kab_webspbu": "Kota Mataram",
+    "id_kab_bps": "5271",
+    "id_kab_dagri": "52.71",
+    "id_kab_sap_cnt": "2310",
+    "label_kab_kota": "KOTA MATARAM",
+    "label_kab_bps": "MATARAM"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-MDN",
+    "label_kab_webspbu": "Kota Medan",
+    "id_kab_bps": "1275",
+    "id_kab_dagri": "12.71",
+    "id_kab_sap_cnt": "701",
+    "label_kab_kota": "KOTA MEDAN",
+    "label_kab_bps": "MEDAN"
+  },
+  {
+    "id_kab_webspbu": "ID-LA-MET",
+    "label_kab_webspbu": "Kota Metro",
+    "id_kab_bps": "1872",
+    "id_kab_dagri": "18.72",
+    "id_kab_sap_cnt": "1302",
+    "label_kab_kota": "KOTA METRO",
+    "label_kab_bps": "METRO"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-MJK",
+    "label_kab_webspbu": "Kota Mojokerto",
+    "id_kab_bps": "3576",
+    "id_kab_dagri": "35.76",
+    "id_kab_sap_cnt": "420",
+    "label_kab_kota": "KOTA MOJOKERTO",
+    "label_kab_bps": "MOJOKERTO"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-PAD",
+    "label_kab_webspbu": "Kota Padang",
+    "id_kab_bps": "1371",
+    "id_kab_dagri": "13.71",
+    "id_kab_sap_cnt": "801",
+    "label_kab_kota": "KOTA PADANG",
+    "label_kab_bps": "PADANG"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-PDP",
+    "label_kab_webspbu": "Kota Padang Panjang",
+    "id_kab_bps": "1374",
+    "id_kab_dagri": "13.74",
+    "id_kab_sap_cnt": "805",
+    "label_kab_kota": "KOTA PADANG PANJANG",
+    "label_kab_bps": "PADANG PANJANG"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-PSP",
+    "label_kab_webspbu": "Kota Padang Sidempuan",
+    "id_kab_bps": "1277",
+    "id_kab_dagri": "12.77",
+    "id_kab_sap_cnt": "720",
+    "label_kab_kota": "KOTA PADANG SIDIMPUAN",
+    "label_kab_bps": "PADANGSIDIMPUAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-PGA",
+    "label_kab_webspbu": "Kota Pagar Alam",
+    "id_kab_bps": "1673",
+    "id_kab_dagri": "16.72",
+    "id_kab_sap_cnt": "1109",
+    "label_kab_kota": "KOTA PAGAR ALAM",
+    "label_kab_bps": "PAGAR ALAM"
+  },
+  {
+    "id_kab_webspbu": "ID-KT-PLK",
+    "label_kab_webspbu": "Kota Palangkaraya",
+    "id_kab_bps": "6271",
+    "id_kab_dagri": "62.71",
+    "id_kab_sap_cnt": "1601",
+    "label_kab_kota": "KOTA PALANGKARAYA",
+    "label_kab_bps": "PALANGKA RAYA"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-PLG",
+    "label_kab_webspbu": "Kota Palembang",
+    "id_kab_bps": "1671",
+    "id_kab_dagri": "16.71",
+    "id_kab_sap_cnt": "1101",
+    "label_kab_kota": "KOTA PALEMBANG",
+    "label_kab_bps": "PALEMBANG"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-PLP",
+    "label_kab_webspbu": "Kota Palopo",
+    "id_kab_bps": "7373",
+    "id_kab_dagri": "73.73",
+    "id_kab_sap_cnt": "1825",
+    "label_kab_kota": "KOTA PALOPO",
+    "label_kab_bps": "PALOPO"
+  },
+  {
+    "id_kab_webspbu": "ID-ST-PAL",
+    "label_kab_webspbu": "Kota Palu",
+    "id_kab_bps": "7271",
+    "id_kab_dagri": "72.71",
+    "id_kab_sap_cnt": "2001",
+    "label_kab_kota": "KOTA PALU",
+    "label_kab_bps": "PALU"
+  },
+  {
+    "id_kab_webspbu": "ID-BB-PGP",
+    "label_kab_webspbu": "Kota Pangkal Pinang",
+    "id_kab_bps": "1971",
+    "id_kab_dagri": "19.71",
+    "id_kab_sap_cnt": "2701",
+    "label_kab_kota": "KOTA PANGKALPINANG",
+    "label_kab_bps": "PANGKALPINANG"
+  },
+  {
+    "id_kab_webspbu": "ID-SN-PRE",
+    "label_kab_webspbu": "Kota Parepare",
+    "id_kab_bps": "7372",
+    "id_kab_dagri": "73.72",
+    "id_kab_sap_cnt": "1802",
+    "label_kab_kota": "KOTA PARE PARE",
+    "label_kab_bps": "PAREPARE"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-PMN",
+    "label_kab_webspbu": "Kota Pariaman",
+    "id_kab_bps": "1377",
+    "id_kab_dagri": "13.77",
+    "id_kab_sap_cnt": "815",
+    "label_kab_kota": "KOTA PARIAMAN",
+    "label_kab_bps": "PARIAMAN"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-PSN",
+    "label_kab_webspbu": "Kota Pasuruan",
+    "id_kab_bps": "3575",
+    "id_kab_dagri": "35.75",
+    "id_kab_sap_cnt": "470",
+    "label_kab_kota": "KOTA PASURUAN",
+    "label_kab_bps": "PASURUAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-PYH",
+    "label_kab_webspbu": "Kota Payakumbuh",
+    "id_kab_bps": "1376",
+    "id_kab_dagri": "13.76",
+    "id_kab_sap_cnt": "803",
+    "label_kab_kota": "KOTA PAYAKUMBUH",
+    "label_kab_bps": "PAYAKUMBUH"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-PKL",
+    "label_kab_webspbu": "Kota Pekalongan",
+    "id_kab_bps": "3375",
+    "id_kab_dagri": "33.75",
+    "id_kab_sap_cnt": "315",
+    "label_kab_kota": "KOTA PEKALONGAN",
+    "label_kab_bps": "PEKALONGAN"
+  },
+  {
+    "id_kab_webspbu": "ID-RI-PBR",
+    "label_kab_webspbu": "Kota Pekanbaru",
+    "id_kab_bps": "1471",
+    "id_kab_dagri": "14.71",
+    "id_kab_sap_cnt": "901",
+    "label_kab_kota": "KOTA PEKANBARU",
+    "label_kab_bps": "PEKANBARU"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-PMS",
+    "label_kab_webspbu": "Kota Pematang Siantar",
+    "id_kab_bps": "1273",
+    "id_kab_dagri": "12.72",
+    "id_kab_sap_cnt": "704",
+    "label_kab_kota": "KOTA PEMATANGSIANTAR",
+    "label_kab_bps": "PEMATANG SIANTAR"
+  },
+  {
+    "id_kab_webspbu": "ID-KB-PTK",
+    "label_kab_webspbu": "Kota Pontianak",
+    "id_kab_bps": "6171",
+    "id_kab_dagri": "61.71",
+    "id_kab_sap_cnt": "1501",
+    "label_kab_kota": "KOTA PONTIANAK",
+    "label_kab_bps": "PONTIANAK"
+  },
+  {
+    "id_kab_webspbu": "ID-SS-PBM",
+    "label_kab_webspbu": "Kota Prabumulih",
+    "id_kab_bps": "1672",
+    "id_kab_dagri": "16.74",
+    "id_kab_sap_cnt": "1108",
+    "label_kab_kota": "KOTA PRABUMULIH",
+    "label_kab_bps": "PRABUMULIH"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-PBL",
+    "label_kab_webspbu": "Kota Probolinggo",
+    "id_kab_bps": "3574",
+    "id_kab_dagri": "35.74",
+    "id_kab_sap_cnt": "480",
+    "label_kab_kota": "KOTA PROBOLINGGO",
+    "label_kab_bps": "PROBOLINGGO"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-SAB",
+    "label_kab_webspbu": "Kota Sabang",
+    "id_kab_bps": "1172",
+    "id_kab_dagri": "11.72",
+    "id_kab_sap_cnt": "602",
+    "label_kab_kota": "KOTA SABANG",
+    "label_kab_bps": "SABANG"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-SLT",
+    "label_kab_webspbu": "Kota Salatiga",
+    "id_kab_bps": "3373",
+    "id_kab_dagri": "33.73",
+    "id_kab_sap_cnt": "303",
+    "label_kab_kota": "KOTA SALATIGA",
+    "label_kab_bps": "SALATIGA"
+  },
+  {
+    "id_kab_webspbu": "ID-KI-SMR",
+    "label_kab_webspbu": "Kota Samarinda",
+    "id_kab_bps": "6472",
+    "id_kab_dagri": "64.72",
+    "id_kab_sap_cnt": "1709",
+    "label_kab_kota": "KOTA SAMARINDA",
+    "label_kab_bps": "SAMARINDA"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-SWL",
+    "label_kab_webspbu": "Kota Sawahlunto",
+    "id_kab_bps": "1373",
+    "id_kab_dagri": "13.73",
+    "id_kab_sap_cnt": "804",
+    "label_kab_kota": "KOTA SAWAHLUNTO",
+    "label_kab_bps": "SAWAH LUNTO"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-SMG",
+    "label_kab_webspbu": "Kota Semarang",
+    "id_kab_bps": "3374",
+    "id_kab_dagri": "33.74",
+    "id_kab_sap_cnt": "301",
+    "label_kab_kota": "KOTA SEMARANG",
+    "label_kab_bps": "SEMARANG"
+  },
+  {
+    "id_kab_webspbu": "ID-BT-SRG",
+    "label_kab_webspbu": "Kota Serang",
+    "id_kab_bps": "3673",
+    "id_kab_dagri": "36.73",
+    "id_kab_sap_cnt": "2813",
+    "label_kab_kota": "KOTA SERANG",
+    "label_kab_bps": "SERANG"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-SBG",
+    "label_kab_webspbu": "Kota Sibolga",
+    "id_kab_bps": "1271",
+    "id_kab_dagri": "12.73",
+    "id_kab_sap_cnt": "705",
+    "label_kab_kota": "KOTA SIBOLGA",
+    "label_kab_bps": "SIBOLGA"
+  },
+  {
+    "id_kab_webspbu": "ID-KB-SKW",
+    "label_kab_webspbu": "Kota Singkawang",
+    "id_kab_bps": "6172",
+    "id_kab_dagri": "61.72",
+    "id_kab_sap_cnt": "1506",
+    "label_kab_kota": "KOTA SINGKAWANG",
+    "label_kab_bps": "SINGKAWANG"
+  },
+  {
+    "id_kab_webspbu": "ID-SB-SLK",
+    "label_kab_webspbu": "Kota Solok",
+    "id_kab_bps": "1372",
+    "id_kab_dagri": "13.72",
+    "id_kab_sap_cnt": "816",
+    "label_kab_kota": "KOTA SOLOK",
+    "label_kab_bps": "SOLOK"
+  },
+  {
+    "id_kab_webspbu": "ID-PB-SON",
+    "label_kab_webspbu": "Kota Sorong",
+    "id_kab_bps": "9171",
+    "id_kab_dagri": "92.71",
+    "id_kab_sap_cnt": "3301",
+    "label_kab_kota": "KOTA SORONG",
+    "label_kab_bps": "SORONG"
+  },
+  {
+    "id_kab_webspbu": "ID-AC-SUS",
+    "label_kab_webspbu": "Kota Subulussalam",
+    "id_kab_bps": "1175",
+    "id_kab_dagri": "11.75",
+    "id_kab_sap_cnt": "623",
+    "label_kab_kota": "KOTA SUBULUSSALAM",
+    "label_kab_bps": "SUBULUSSALAM"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-SKB",
+    "label_kab_webspbu": "Kota Sukabumi",
+    "id_kab_bps": "3272",
+    "id_kab_dagri": "32.72",
+    "id_kab_sap_cnt": "216",
+    "label_kab_kota": "KOTA SUKABUMI",
+    "label_kab_bps": "SUKABUMI"
+  },
+  {
+    "id_kab_webspbu": "ID-JA-SPN",
+    "label_kab_webspbu": "Kota Sungai Penuh",
+    "id_kab_bps": "1572",
+    "id_kab_dagri": "15.72",
+    "id_kab_sap_cnt": "1011",
+    "label_kab_kota": "KOTA SUNGAI PENUH",
+    "label_kab_bps": "SUNGAI PENUH"
+  },
+  {
+    "id_kab_webspbu": "ID-JI-SBY",
+    "label_kab_webspbu": "Kota Surabaya",
+    "id_kab_bps": "3578",
+    "id_kab_dagri": "35.78",
+    "id_kab_sap_cnt": "410",
+    "label_kab_kota": "KOTA SURABAYA",
+    "label_kab_bps": "SURABAYA"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-SKT",
+    "label_kab_webspbu": "Kota Surakarta",
+    "id_kab_bps": "3372",
+    "id_kab_dagri": "33.72",
+    "id_kab_sap_cnt": "329",
+    "label_kab_kota": "KOTA SURAKARTA",
+    "label_kab_bps": "SURAKARTA"
+  },
+  {
+    "id_kab_webspbu": "ID-BT-TNG",
+    "label_kab_webspbu": "Kota Tangerang",
+    "id_kab_bps": "3671",
+    "id_kab_dagri": "36.71",
+    "id_kab_sap_cnt": "2807",
+    "label_kab_kota": "KOTA TANGERANG",
+    "label_kab_bps": "TANGERANG"
+  },
+  {
+    "id_kab_webspbu": "ID-BT-CPT",
+    "label_kab_webspbu": "Kota Tangerang Selatan",
+    "id_kab_bps": "3674",
+    "id_kab_dagri": "36.74",
+    "id_kab_sap_cnt": "2814",
+    "label_kab_kota": "KOTA TANGERANG SELATAN",
+    "label_kab_bps": "TANGERANG SELATAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-TJB",
+    "label_kab_webspbu": "Kota Tanjung Balai",
+    "id_kab_bps": "1272",
+    "id_kab_dagri": "12.74",
+    "id_kab_sap_cnt": "706",
+    "label_kab_kota": "KOTA TANJUNG BALAI",
+    "label_kab_bps": "TANJUNG BALAI"
+  },
+  {
+    "id_kab_webspbu": "ID-KR-TPG",
+    "label_kab_webspbu": "Kota Tanjung Pinang",
+    "id_kab_bps": "2172",
+    "id_kab_dagri": "21.72",
+    "id_kab_sap_cnt": "3106",
+    "label_kab_kota": "KOTA TANJUNGPINANG",
+    "label_kab_bps": "TANJUNG PINANG"
+  },
+  {
+    "id_kab_webspbu": "ID-KU-TAR",
+    "label_kab_webspbu": "Kota Tarakan",
+    "id_kab_bps": "6571",
+    "id_kab_dagri": "65.71",
+    "id_kab_sap_cnt": "1704",
+    "label_kab_kota": "KOTA TARAKAN",
+    "label_kab_bps": "TARAKAN"
+  },
+  {
+    "id_kab_webspbu": "ID-JB-TSM",
+    "label_kab_webspbu": "Kota Tasikmalaya",
+    "id_kab_bps": "3278",
+    "id_kab_dagri": "32.78",
+    "id_kab_sap_cnt": "227",
+    "label_kab_kota": "KOTA TASIKMALAYA",
+    "label_kab_bps": "TASIKMALAYA"
+  },
+  {
+    "id_kab_webspbu": "ID-SU-TBT",
+    "label_kab_webspbu": "Kota Tebing Tinggi",
+    "id_kab_bps": "1274",
+    "id_kab_dagri": "12.76",
+    "id_kab_sap_cnt": "703",
+    "label_kab_kota": "KOTA TEBING TINGGI",
+    "label_kab_bps": "TEBING TINGGI"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-SLW",
+    "label_kab_webspbu": "Kota Tegal",
+    "id_kab_bps": "3376",
+    "id_kab_dagri": "33.76",
+    "id_kab_sap_cnt": "312",
+    "label_kab_kota": "KOTA TEGAL",
+    "label_kab_bps": "TEGAL"
+  },
+  {
+    "id_kab_webspbu": "ID-JT-TGL",
+    "label_kab_webspbu": "Kota Tegal",
+    "id_kab_bps": "3376",
+    "id_kab_dagri": "33.76",
+    "id_kab_sap_cnt": "312",
+    "label_kab_kota": "KOTA TEGAL",
+    "label_kab_bps": "TEGAL"
+  },
+  {
+    "id_kab_webspbu": "ID-MU-TTE",
+    "label_kab_webspbu": "Kota Ternate",
+    "id_kab_bps": "8271",
+    "id_kab_dagri": "82.71",
+    "id_kab_sap_cnt": "3001",
+    "label_kab_kota": "KOTA TERNATE",
+    "label_kab_bps": "TERNATE"
+  },
+  {
+    "id_kab_webspbu": "ID-MU-TDR",
+    "label_kab_webspbu": "Kota Tidore Kepulauan",
+    "id_kab_bps": "8272",
+    "id_kab_dagri": "82.72",
+    "id_kab_sap_cnt": "3006",
+    "label_kab_kota": "KOTA TIDORE KEPULAUAN",
+    "label_kab_bps": "TIDORE KEPULAUAN"
+  },
+  {
+    "id_kab_webspbu": "ID-SA-TMH",
+    "label_kab_webspbu": "Kota Tomohon",
+    "id_kab_bps": "7173",
+    "id_kab_dagri": "71.73",
+    "id_kab_sap_cnt": "2109",
+    "label_kab_kota": "KOTA TOMOHON",
+    "label_kab_bps": "TOMOHON"
+  },
+  {
+    "id_kab_webspbu": "ID-MA-TUL",
+    "label_kab_webspbu": "Kota Tual",
+    "id_kab_bps": "8172",
+    "id_kab_dagri": "81.72",
+    "id_kab_sap_cnt": "2509",
+    "label_kab_kota": "KOTA TUAL",
+    "label_kab_bps": "TUAL"
+  },
+  {
+    "id_kab_webspbu": "ID-YO-YYK",
+    "label_kab_webspbu": "Kota Yogyakarta",
+    "id_kab_bps": "3471",
+    "id_kab_dagri": "34.71",
+    "id_kab_sap_cnt": "501",
+    "label_kab_kota": "KOTA YOGYAKARTA",
+    "label_kab_bps": "YOGYAKARTA"
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "label_prov_webspbu": "Aceh",
+    "id_prov_webspbu": "ID-AC",
+    "id_prov_dagri": "11",
+    "label_prov_dagri": "Aceh",
+    "id_prov_sap_cnt": "ID 01"
+  },
+  {
+    "label_prov_webspbu": "Bali",
+    "id_prov_webspbu": "ID-BA",
+    "id_prov_dagri": "51",
+    "label_prov_dagri": "Bali",
+    "id_prov_sap_cnt": "ID 17"
+  },
+  {
+    "label_prov_webspbu": "Kep. Bangka Belitung",
+    "id_prov_webspbu": "ID-BB",
+    "id_prov_dagri": "19",
+    "label_prov_dagri": "Kep. Bangka Belitung",
+    "id_prov_sap_cnt": "ID 09"
+  },
+  {
+    "label_prov_webspbu": "Banten",
+    "id_prov_webspbu": "ID-BT",
+    "id_prov_dagri": "36",
+    "label_prov_dagri": "Banten",
+    "id_prov_sap_cnt": "ID 12"
+  },
+  {
+    "label_prov_webspbu": "Bengkulu",
+    "id_prov_webspbu": "ID-BE",
+    "id_prov_dagri": "17",
+    "label_prov_dagri": "Bengkulu",
+    "id_prov_sap_cnt": "ID 07"
+  },
+  {
+    "label_prov_webspbu": "DI Yogyakarta",
+    "id_prov_webspbu": "ID-YO",
+    "id_prov_dagri": "34",
+    "label_prov_dagri": "DI Yogyakarta",
+    "id_prov_sap_cnt": "ID 15"
+  },
+  {
+    "label_prov_webspbu": "DKI Jakarta",
+    "id_prov_webspbu": "ID-JK",
+    "id_prov_dagri": "31",
+    "label_prov_dagri": "DKI Jakarta",
+    "id_prov_sap_cnt": "ID 11"
+  },
+  {
+    "label_prov_webspbu": "Gorontalo",
+    "id_prov_webspbu": "ID-GO",
+    "id_prov_dagri": "75",
+    "label_prov_dagri": "Gorontalo",
+    "id_prov_sap_cnt": "ID 25"
+  },
+  {
+    "label_prov_webspbu": "Jambi",
+    "id_prov_webspbu": "ID-JA",
+    "id_prov_dagri": "15",
+    "label_prov_dagri": "Jambi",
+    "id_prov_sap_cnt": "ID 06"
+  },
+  {
+    "label_prov_webspbu": "Jawa Barat",
+    "id_prov_webspbu": "ID-JB",
+    "id_prov_dagri": "32",
+    "label_prov_dagri": "Jawa Barat",
+    "id_prov_sap_cnt": "ID 13"
+  },
+  {
+    "label_prov_webspbu": "Jawa Tengah",
+    "id_prov_webspbu": "ID-JT",
+    "id_prov_dagri": "33",
+    "label_prov_dagri": "Jawa Tengah",
+    "id_prov_sap_cnt": "ID 14"
+  },
+  {
+    "label_prov_webspbu": "Jawa Timur",
+    "id_prov_webspbu": "ID-JI",
+    "id_prov_dagri": "35",
+    "label_prov_dagri": "Jawa Timur",
+    "id_prov_sap_cnt": "ID 16"
+  },
+  {
+    "label_prov_webspbu": "Kalimantan Barat",
+    "id_prov_webspbu": "ID-KB",
+    "id_prov_dagri": "61",
+    "label_prov_dagri": "Kalimantan Barat",
+    "id_prov_sap_cnt": "ID 20"
+  },
+  {
+    "label_prov_webspbu": "Kalimantan Selatan",
+    "id_prov_webspbu": "ID-KS",
+    "id_prov_dagri": "63",
+    "label_prov_dagri": "Kalimantan Selatan",
+    "id_prov_sap_cnt": "ID 22"
+  },
+  {
+    "label_prov_webspbu": "Kalimantan Tengah",
+    "id_prov_webspbu": "ID-KT",
+    "id_prov_dagri": "62",
+    "label_prov_dagri": "Kalimantan Tengah",
+    "id_prov_sap_cnt": "ID 21"
+  },
+  {
+    "label_prov_webspbu": "Kalimantan Timur",
+    "id_prov_webspbu": "ID-KI",
+    "id_prov_dagri": "64",
+    "label_prov_dagri": "Kalimantan Timur",
+    "id_prov_sap_cnt": "ID 23"
+  },
+  {
+    "label_prov_webspbu": "Kalimantan Utara",
+    "id_prov_webspbu": "ID-KU",
+    "id_prov_dagri": "65",
+    "label_prov_dagri": "Kalimantan Utara",
+    "id_prov_sap_cnt": "ID 34"
+  },
+  {
+    "label_prov_webspbu": "Kep. Riau",
+    "id_prov_webspbu": "ID-KR",
+    "id_prov_dagri": "21",
+    "label_prov_dagri": "Kep. Riau",
+    "id_prov_sap_cnt": "ID 05"
+  },
+  {
+    "label_prov_webspbu": "Lampung",
+    "id_prov_webspbu": "ID-LA",
+    "id_prov_dagri": "18",
+    "label_prov_dagri": "Lampung",
+    "id_prov_sap_cnt": "ID 10"
+  },
+  {
+    "label_prov_webspbu": "Maluku",
+    "id_prov_webspbu": "ID-MA",
+    "id_prov_dagri": "81",
+    "label_prov_dagri": "Maluku",
+    "id_prov_sap_cnt": "ID 30"
+  },
+  {
+    "label_prov_webspbu": "Maluku Utara",
+    "id_prov_webspbu": "ID-MU",
+    "id_prov_dagri": "82",
+    "label_prov_dagri": "Maluku Utara",
+    "id_prov_sap_cnt": "ID 31"
+  },
+  {
+    "label_prov_webspbu": "Nusa Tenggara Barat",
+    "id_prov_webspbu": "ID-NB",
+    "id_prov_dagri": "52",
+    "label_prov_dagri": "Nusa Tenggara Barat",
+    "id_prov_sap_cnt": "ID 18"
+  },
+  {
+    "label_prov_webspbu": "Nusa Tenggara Timur",
+    "id_prov_webspbu": "ID-NT",
+    "id_prov_dagri": "53",
+    "label_prov_dagri": "Nusa Tenggara Timur",
+    "id_prov_sap_cnt": "ID 19"
+  },
+  {
+    "label_prov_webspbu": "Papua",
+    "id_prov_webspbu": "ID-PA",
+    "id_prov_dagri": "91",
+    "label_prov_dagri": "Papua",
+    "id_prov_sap_cnt": "ID 32"
+  },
+  {
+    "label_prov_webspbu": "Papua Barat",
+    "id_prov_webspbu": "ID-PB",
+    "id_prov_dagri": "92",
+    "label_prov_dagri": "Papua Barat",
+    "id_prov_sap_cnt": "ID 33"
+  },
+  {
+    "label_prov_webspbu": "Papua Barat Daya",
+    "id_prov_webspbu": "ID-PD",
+    "id_prov_dagri": "0",
+    "label_prov_dagri": "-",
+    "id_prov_sap_cnt": "-"
+  },
+  {
+    "label_prov_webspbu": "Papua Pegunungan",
+    "id_prov_webspbu": "ID-PE",
+    "id_prov_dagri": "0",
+    "label_prov_dagri": "-",
+    "id_prov_sap_cnt": "-"
+  },
+  {
+    "label_prov_webspbu": "Papua Selatan",
+    "id_prov_webspbu": "ID-PS",
+    "id_prov_dagri": "93",
+    "label_prov_dagri": "Papua Selatan",
+    "id_prov_sap_cnt": "ID 35"
+  },
+  {
+    "label_prov_webspbu": "Papua Tengah",
+    "id_prov_webspbu": "ID-PT",
+    "id_prov_dagri": "94",
+    "label_prov_dagri": "Papua Tengah",
+    "id_prov_sap_cnt": "ID 37"
+  },
+  {
+    "label_prov_webspbu": "Riau",
+    "id_prov_webspbu": "ID-RI",
+    "id_prov_dagri": "14",
+    "label_prov_dagri": "Riau",
+    "id_prov_sap_cnt": "ID 04"
+  },
+  {
+    "label_prov_webspbu": "Sulawesi Barat",
+    "id_prov_webspbu": "ID-SR",
+    "id_prov_dagri": "76",
+    "label_prov_dagri": "Sulawesi Barat",
+    "id_prov_sap_cnt": "ID 29"
+  },
+  {
+    "label_prov_webspbu": "Sulawesi Selatan",
+    "id_prov_webspbu": "ID-SN",
+    "id_prov_dagri": "73",
+    "label_prov_dagri": "Sulawesi Selatan",
+    "id_prov_sap_cnt": "ID 28"
+  },
+  {
+    "label_prov_webspbu": "Sulawesi Tengah",
+    "id_prov_webspbu": "ID-ST",
+    "id_prov_dagri": "72",
+    "label_prov_dagri": "Sulawesi Tengah",
+    "id_prov_sap_cnt": "ID 26"
+  },
+  {
+    "label_prov_webspbu": "Sulawesi Tenggara",
+    "id_prov_webspbu": "ID-SG",
+    "id_prov_dagri": "74",
+    "label_prov_dagri": "Sulawesi Tenggara",
+    "id_prov_sap_cnt": "ID 27"
+  },
+  {
+    "label_prov_webspbu": "Sulawesi Utara",
+    "id_prov_webspbu": "ID-SA",
+    "id_prov_dagri": "71",
+    "label_prov_dagri": "Sulawesi Utara",
+    "id_prov_sap_cnt": "ID 24"
+  },
+  {
+    "label_prov_webspbu": "Sumatera Barat",
+    "id_prov_webspbu": "ID-SB",
+    "id_prov_dagri": "13",
+    "label_prov_dagri": "Sumatera Barat",
+    "id_prov_sap_cnt": "ID 03"
+  },
+  {
+    "label_prov_webspbu": "Sumatera Selatan",
+    "id_prov_webspbu": "ID-SS",
+    "id_prov_dagri": "16",
+    "label_prov_dagri": "Sumatera Selatan",
+    "id_prov_sap_cnt": "ID 08"
+  },
+  {
+    "label_prov_webspbu": "Sumatera Utara",
+    "id_prov_webspbu": "ID-SU",
+    "id_prov_dagri": "12",
+    "label_prov_dagri": "Sumatera Utara",
+    "id_prov_sap_cnt": "ID 02"
+  }
+]

@@ -1,0 +1,287 @@
+{
+    "success": true,
+    "data": [
+        {
+            "label": "SAM Retail Aceh",
+            "title": "SAM Retail Aceh",
+            "value": "SAM-Aceh",
+            "html": "\u003Coption value=\u0022SAM-Aceh\u0022\u003ESAM Retail Aceh\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Babel",
+            "title": "SAM Retail Babel",
+            "value": "SAM-Babel",
+            "html": "\u003Coption value=\u0022SAM-Babel\u0022\u003ESAM Retail Babel\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Bali",
+            "title": "SAM Retail Bali",
+            "value": "SAM-Bali",
+            "html": "\u003Coption value=\u0022SAM-Bali\u0022\u003ESAM Retail Bali\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Bandung",
+            "title": "SAM Retail Bandung",
+            "value": "SAM-Bandung",
+            "html": "\u003Coption value=\u0022SAM-Bandung\u0022\u003ESAM Retail Bandung\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Banten",
+            "title": "SAM Retail Banten",
+            "value": "SAM-Banten",
+            "html": "\u003Coption value=\u0022SAM-Banten\u0022\u003ESAM Retail Banten\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Bengkulu",
+            "title": "SAM Retail Bengkulu",
+            "value": "SAM-Bengkulu",
+            "html": "\u003Coption value=\u0022SAM-Bengkulu\u0022\u003ESAM Retail Bengkulu\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Cirebon",
+            "title": "SAM Retail Cirebon",
+            "value": "SAM-Cirebon",
+            "html": "\u003Coption value=\u0022SAM-Cirebon\u0022\u003ESAM Retail Cirebon\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Jabode",
+            "title": "SAM Retail Jabode",
+            "value": "SAM-Jabode",
+            "html": "\u003Coption value=\u0022SAM-Jabode\u0022\u003ESAM Retail Jabode\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Jambi",
+            "title": "SAM Retail Jambi",
+            "value": "SAM-Jambi",
+            "html": "\u003Coption value=\u0022SAM-Jambi\u0022\u003ESAM Retail Jambi\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Kalbar",
+            "title": "SAM Retail Kalbar",
+            "value": "SAM-Kal-Bar",
+            "html": "\u003Coption value=\u0022SAM-Kal-Bar\u0022\u003ESAM Retail Kalbar\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Kalsel",
+            "title": "SAM Retail Kalsel",
+            "value": "SAM-Kal-Sel",
+            "html": "\u003Coption value=\u0022SAM-Kal-Sel\u0022\u003ESAM Retail Kalsel\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Kalteng",
+            "title": "SAM Retail Kalteng",
+            "value": "SAM-Kal-Teng",
+            "html": "\u003Coption value=\u0022SAM-Kal-Teng\u0022\u003ESAM Retail Kalteng\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Kaltimut",
+            "title": "SAM Retail Kaltimut",
+            "value": "SAM-Kal-Tim-Ut",
+            "html": "\u003Coption value=\u0022SAM-Kal-Tim-Ut\u0022\u003ESAM Retail Kaltimut\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Karawang",
+            "title": "SAM Retail Karawang",
+            "value": "SAM-Karawang",
+            "html": "\u003Coption value=\u0022SAM-Karawang\u0022\u003ESAM Retail Karawang\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Kediri",
+            "title": "SAM Retail Kediri",
+            "value": "SAM-Kediri",
+            "html": "\u003Coption value=\u0022SAM-Kediri\u0022\u003ESAM Retail Kediri\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Kepulauan Riau",
+            "title": "SAM Retail Kepulauan Riau",
+            "value": "SAM-Kep-Ri",
+            "html": "\u003Coption value=\u0022SAM-Kep-Ri\u0022\u003ESAM Retail Kepulauan Riau\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Lampung",
+            "title": "SAM Retail Lampung",
+            "value": "SAM-Lampung",
+            "html": "\u003Coption value=\u0022SAM-Lampung\u0022\u003ESAM Retail Lampung\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Malang",
+            "title": "SAM Retail Malang",
+            "value": "SAM-Malang",
+            "html": "\u003Coption value=\u0022SAM-Malang\u0022\u003ESAM Retail Malang\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Maluku",
+            "title": "SAM Retail Maluku",
+            "value": "SAM-Maluku",
+            "html": "\u003Coption value=\u0022SAM-Maluku\u0022\u003ESAM Retail Maluku\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Maluku Utara",
+            "title": "SAM Retail Maluku Utara",
+            "value": "SAM-Maluku-Utara",
+            "html": "\u003Coption value=\u0022SAM-Maluku-Utara\u0022\u003ESAM Retail Maluku Utara\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Medan",
+            "title": "SAM Retail Medan",
+            "value": "SAM-Medan",
+            "html": "\u003Coption value=\u0022SAM-Medan\u0022\u003ESAM Retail Medan\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail NTB",
+            "title": "SAM Retail NTB",
+            "value": "SAM-NTB",
+            "html": "\u003Coption value=\u0022SAM-NTB\u0022\u003ESAM Retail NTB\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail NTT",
+            "title": "SAM Retail NTT",
+            "value": "SAM-NTT",
+            "html": "\u003Coption value=\u0022SAM-NTT\u0022\u003ESAM Retail NTT\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Papua",
+            "title": "SAM Retail Papua",
+            "value": "SAM-Papua ",
+            "html": "\u003Coption value=\u0022SAM-Papua \u0022\u003ESAM Retail Papua\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Papua Barat",
+            "title": "SAM Retail Papua Barat",
+            "value": "SAM-Papua-Barat",
+            "html": "\u003Coption value=\u0022SAM-Papua-Barat\u0022\u003ESAM Retail Papua Barat\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Papua Selatan-Pegunungan",
+            "title": "SAM Retail Papua Selatan-Pegunungan",
+            "value": "SAM-Papua-Sel-Pegunungan",
+            "html": "\u003Coption value=\u0022SAM-Papua-Sel-Pegunungan\u0022\u003ESAM Retail Papua Selatan-Pegunungan\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Papua Tengah",
+            "title": "SAM Retail Papua Tengah",
+            "value": "SAM-Papua-Tengah",
+            "html": "\u003Coption value=\u0022SAM-Papua-Tengah\u0022\u003ESAM Retail Papua Tengah\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Riau",
+            "title": "SAM Retail Riau",
+            "value": "SAM-Riau",
+            "html": "\u003Coption value=\u0022SAM-Riau\u0022\u003ESAM Retail Riau\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Semarang",
+            "title": "SAM Retail Semarang",
+            "value": "SAM-Semarang",
+            "html": "\u003Coption value=\u0022SAM-Semarang\u0022\u003ESAM Retail Semarang\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Sibolga",
+            "title": "SAM Retail Sibolga",
+            "value": "SAM-Sibolga",
+            "html": "\u003Coption value=\u0022SAM-Sibolga\u0022\u003ESAM Retail Sibolga\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Sukabumi",
+            "title": "SAM Retail Sukabumi",
+            "value": "SAM-Sukabumi",
+            "html": "\u003Coption value=\u0022SAM-Sukabumi\u0022\u003ESAM Retail Sukabumi\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Sulselbar",
+            "title": "SAM Retail Sulselbar",
+            "value": "SAM-Sul-Sel-Bar",
+            "html": "\u003Coption value=\u0022SAM-Sul-Sel-Bar\u0022\u003ESAM Retail Sulselbar\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Sulteng",
+            "title": "SAM Retail Sulteng",
+            "value": "SAM-Sul-Teng",
+            "html": "\u003Coption value=\u0022SAM-Sul-Teng\u0022\u003ESAM Retail Sulteng\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Sultra",
+            "title": "SAM Retail Sultra",
+            "value": "SAM-Sul-Tra",
+            "html": "\u003Coption value=\u0022SAM-Sul-Tra\u0022\u003ESAM Retail Sultra\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Sulutgo",
+            "title": "SAM Retail Sulutgo",
+            "value": "SAM-Sul-Ut-Go",
+            "html": "\u003Coption value=\u0022SAM-Sul-Ut-Go\u0022\u003ESAM Retail Sulutgo\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Sumbar",
+            "title": "SAM Retail Sumbar",
+            "value": "SAM-Sum-Bar",
+            "html": "\u003Coption value=\u0022SAM-Sum-Bar\u0022\u003ESAM Retail Sumbar\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Sumsel",
+            "title": "SAM Retail Sumsel",
+            "value": "SAM-Sumsel",
+            "html": "\u003Coption value=\u0022SAM-Sumsel\u0022\u003ESAM Retail Sumsel\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Surabaya",
+            "title": "SAM Retail Surabaya",
+            "value": "SAM-Surabaya",
+            "html": "\u003Coption value=\u0022SAM-Surabaya\u0022\u003ESAM Retail Surabaya\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Tegal",
+            "title": "SAM Retail Tegal",
+            "value": "SAM-Tegal",
+            "html": "\u003Coption value=\u0022SAM-Tegal\u0022\u003ESAM Retail Tegal\u003C\/option\u003E",
+            "selected": false
+        },
+        {
+            "label": "SAM Retail Yogyakarta",
+            "title": "SAM Retail Yogyakarta",
+            "value": "SAM-Yogyakarta",
+            "html": "\u003Coption value=\u0022SAM-Yogyakarta\u0022\u003ESAM Retail Yogyakarta\u003C\/option\u003E",
+            "selected": false
+        }
+    ],
+    "role": "top",
+    "isDisabled": false
+}
